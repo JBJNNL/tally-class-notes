@@ -1,0 +1,72 @@
+ 		                    -:Budget Maintain:-
+===============================================================
+1.M/s R.R Ltd Introduce capital with amount of Rs 50,00,000 by cash
+
+2.M/s R.R Ltd Maintain Budget of F.Y 2023-2024.
+		Budget Controls:
+1.Expenses			50,000
+2.Purchase			5,00,000
+3.Sales				8,00,000
+
+3.M/s R.R Ltd Purchase following items from ABC Ltd.
+Item		QTY		Rate	Amount
+Item 1		10/Pcs		10,000	------
+Item 2		15/Pcs		15,000	------
+Item 3		20/Pcs		10,000	------
+
+4.M/s R.R Sales following Items to Mr Mohan.
+Item		QTY		Rate	Amount
+Item 1		10/Pcs		15,000	------
+Item 2		15/Pcs		20,000	------
+Item 3		20/Pcs		15,000	------
+
+5.M/s R.R Paid Following Expenses
+1.Salary		20,000
+2.Electricity Bill	10,000
+3.Rent			15,000
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Step 1:-Vouchers-->Press F6(Receipt)
+Cr. R.R Capital (Capital)			50,00,000
+Dr.Cash						50,00,000
+
+Step 2:-Create--->Show More-->Budgets-->
+Name:-Budget for F.Y 2023-24
+Budget-->Ledger-->Yes
+Particulart				Ledger
+1.Expenses(indirect exp)			50,000
+2.Purchase(Sundry.Creditor)			5,00,000
+3.Sales(Sundry.Debtor)			8,00,000
+
+Create Shortcut Key-->Alt+C
+
+
+Step 4:-Vouchers-->Press F9(Purchase)
+Party Name:-M/s ABC Ltd(S.Creditor)
+Purchase a/c(Purchase a/c)
+Item		QTY		Rate	Amount
+Item 1		10/Pcs		10,000	------
+Item 2		15/Pcs		15,000	------
+Item 3		20/Pcs		10,000	------
+
+
+
+Step 5:-Vouchers-->Press F8(Sales)
+Party Name:-Mohan(S.Debtor)
+Sales A.c(Sales a/c)
+Item		QTY		Rate	Amount
+Item 1		10/Pcs		15,000	------
+Item 2		15/Pcs		20,000	------
+Item 3		20/Pcs		15,000	------
+
+Step 6:-Press F5(Payment)
+Dr.Salary(Indirect Exp)				20,000
+Dr.Electricity Bill(Indirect Exp)			10,000
+Dr.Rent(Indirect Exp)				15,000
+Cr.Cash							45,000
+
+Step 7:-Check Budget:-Goto Display--->Trail Balance-->Press F10(Choose Budget)
+
+
+//Task:-Tour Budget:- 1,80,000

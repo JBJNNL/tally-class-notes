@@ -1,0 +1,57 @@
+				UTGST(Union Territory)
+-----------------------------------------------------------------------------------------
+1.Chandigarh
+2.Delhi
+3.Dadar nagar Haveli
+4.Daman Diu
+5.Andman Nikobar
+6.Lakshadweep
+7.Jammu Kashmir.
+8.Ladakh.
+9.Panducheri
+
+1.Delhi & Panducheri With legislature
+------------------------------------------------------------------------------------------------------------------------------------------------------
+R.R Trading (Chandigarh)GSTIN:-04AAALM0758K1Z1
+1.M/s R.R Trading Purchase Following Items
+Party Name:-M/s R.K (GSTIN:-04AAACL1745Q1ZC)
+Item Name		HSN/SAC		QTY		RATE		AMOUNT
+W.M			8542		20 Pcs		10,000		-------
+Cooler			8421		10 Pcs		08,000		-------
+Total									-------
+UTGST@9%								-------
+CGST@9%									-------
+
+Step 1:-Enable GST-->Assesses of other terriory	-->Yes
+Step 2:-Vouchers-->Press F9(Purchase)
+Party Name:-M/s R.K(S.C) (GSTIN:-04AAACL1745Q1ZC)
+P.L:-Purchase A/c(Purchase A/c)
+Item Name		HSN/SAC		QTY		RATE		AMOUNT
+W.M			8542		20 Pcs		10,000		-------
+Cooler			8421		10 Pcs		08,000		-------
+Total									-------
+UTGST@9%								-------
+CGST@9%									-------
+
+2.M/s R.R Trading Sales Following items:-
+Party Name:-M/s Ram GSTIN:- 04AAKFN8448D1Z7
+Item Name		HSN/SAC		QTY		RATE		AMOUNT
+W.M			8542		10 Pcs		14,000		-------
+Cooler			8421		08 Pcs		13,000		-------
+Total									-------
+UTGST@9%								-------
+CGST@9%									-------
+
+Step 3:-Vouchers-->Press F8(Sales)
+Party Name:-M/s Ram(S.D) GSTIN:- 04AAKFN8448D1Z7
+S.L:-Sales a/c(Sales a/c)
+Item Name		HSN/SAC		QTY		RATE		AMOUNT
+W.M			8542		10 Pcs		14,000		-------
+Cooler			8421		08 Pcs		13,000		-------
+Total									-------
+UTGST@9%								-------
+CGST@9%									-------
+
+
+----------------------------------------------------------------------------------
+

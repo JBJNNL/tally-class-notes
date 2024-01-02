@@ -1,0 +1,94 @@
+			-:Price Level List:-
+--------------------------------------------------------------------------
+1.M/s R.K Trading Maintain following Stock Items(W.S)
+Item Name		Qty	Dis.	Rate	Amt
+T-Shirt		0	100	2%	500	---
+		100	500	5%	450	---
+		500	1000	6%	400	---
+		Above	1000	7.5%	350	---
+
+Jeans		0	500	3%	800	---
+		500	1000	4.5%	750	---
+		Above	1000	5%	650	---
+
+2.M/s R.K Trading Sales following Items to Mr Manoj(Wholeseller).
+Item Name	QTY		Dis	Rate	Amt
+T-Shirt		450/Pcs		---	----	----
+Jeans		600/Pcs		---	----	----
+
+3.M/s R.K Trading Maintain following Stock Items(Retailer)
+Item Name		Qty	Dis.	Rate	Amt
+T-Shirt		0	100	2%	400	---
+		100	500	3%	350	---
+		500	1000	4%	300	---
+		Above	1000	4.5%	250	---
+
+Jeans		0	500	3%	700	---
+		500	1000	4%	650	---
+		ABove	1000	4.5%	550	---
+2.M/s R.K Trading Sales following Items to Mr Naveen(Retailer).
+Item Name	QTY		Dis	Rate	Amt
+T-Shirt		550/Pcs		---	----	----
+Jeans		800/Pcs		---	----	----
+
+----------------------------------------------------
+Step 1-Prime:-Use Discount Column in invoices-->Yes-->F11-->
+
+Create-->Location(Godam)-->Shop 1
+
+Step 2-->Create-->Show More-->Show Inactive-->
+Price List-->Level 
+WholeSeller,Retailer,Distributer
+
+Step 3:-Create-->Stock items -->
+T-Shirt-->5,000/Pcs
+Jeans-->5,000/Pcs.
+
+Step 4:-Create Price List(Category)-->Whole Seller,Retailer,Distributer
+Whole Seller-->
+Item Name		Qty	Dis.	Rate	Amt
+T-Shirt		0	100	2%	500	---
+		100	500	5%	450	---
+		500	1000	6%	400	---
+		Above	1000	7.5%	350	---
+
+Jeans		0	500	3%	800	---
+		500	1000	4.5%	750	---
+		ABove	1000	5%	650	---
+
+Step 5:-Goto inventory info--->Price List-->Create-->
+Retailer:-
+Item Name		Qty	Dis.	Rate	Amt
+T-Shirt		0	100	2%	400	---
+		100	500	3%	350	---
+		500	1000	4%	300	---
+		Above	1000	4.5%	250	---
+
+Jeans		0	500	3%	700	---
+		500	1000	4%	650	---
+		ABove	1000	4.5%	550	---
+
+Task -->Distributor Price Level Self Set
+
+Step 6:-Voucher-->Press F8(Sale)
+Party Name:-Mr. Manoj(S.Debtor)
+S.L:-Sales a/c(Sales a/c)
+Item Name	QTY		Dis	Rate	Amt
+T-Shirt		450/Pcs		---	----	----
+Jeans		600/Pcs		---	----	----
+Note:-When We create Party Ledger you will have to choose whole seller price List:-
+
+Step 4:-Voucher-->Press F8(Sale)
+Party Name:-Mr. Naveen(S.Debtor)
+S.L:-Sales a/c
+Item Name	QTY		Dis	Rate	Amt
+T-Shirt		550/PCs		---	----	----
+Jeans		800/PCs		---	----	----
+Note:-When We create Party Ledger you will have to choose Retailer price List:-
+
+
+Note:-Price List Revise:-Alter-->Price List-->
+
+
+
+

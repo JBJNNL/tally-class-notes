@@ -1,0 +1,77 @@
+ 		          -:Sales Order Processing:-
+-----------------------------------------------------------------------------------------
+1.JEW Received Sales order from JTEKT Ltd
+Order N0-12345		Order DT.01/04/2023
+Order Due Dt:-01-05-2023
+Item Name		Qty		Rate		Amount
+PIN GUAGE		10 Pcs		3,000		------
+Block PIN			20 Pcs		4,500		------
+
+Step 1:-Prime:-Vouchers-->Other Vouchers-->Show Inactive-->
+Sales Order-->Activate
+
+Step 2:-Goto Order Voucher:-
+Party Name:-JTEKT(Sundry Debtor)
+Sales Ledger:-Sales a/c(Sales A/c)
+Order N0-12345		Order DT.01/04/2023
+Order Due Dt:-01-05-2023
+Item Name		Qty		Rate		Amount
+PIN GUAGE		10 Pcs		3,000		------
+Block PIN			20 Pcs		4,500		------
+
+
+2.JEW Send Quotation For Manufacturing product :-//EXCEL WORK
+
+3.JEW Manufacturing Following items and maintain into stock:-
+Item Name		Qty		Rate		Amount
+PIN GUAGE		10 Pcs		3,000		------
+Block PIN			20 Pcs		4,500		------
+
+Step 3:-Alter-->Stock Items-->Given below
+Item Name		Qty		Rate		Amount
+PIN GUAGE		10 Pcs		3,000		------
+Block PIN			20 Pcs		4,500		------
+
+4.JEW Delivered following items to JTEKT
+Del. Dt. 01-05-2022
+Item Name		Qty		Rate		Amount
+PIN GUAGE		10 Pcs		3,000		------
+Block PIN			20 Pcs		4,500		------
+
+Step 4:-Prime:-Vouchers-->Other Vouchers-->Show Inactive-->
+Delivery Note-->Activate
+
+Select Pary Name:-
+Select Order No-
+Del. Dt. 01-05-2023
+Item Name		Qty		Rate		Amount
+PIN GUAGE		10 Pcs		3,000		------
+Block PIN			20 Pcs		4,500		------
+
+
+5.JEW Received Following Rejected items from JTEKT
+Rejected Dt.-02-05-2023
+Item Name		Qty		Rate		Amount
+Block PIN			03 Pcs		4,500		------
+
+Step 6:-Prime:-Voucher-->Other Vouchers-->Show Inactive-->
+Rejection in-->Activate
+
+Rejected Dt.-02-05-2022
+Choose Tracking number-1
+Item Name		Qty		Rate		Amount
+Block PIN			03 Pcs		4,500		------
+
+6.JEW Sales Following items to JTEKT 
+Item Name		Qty		Rate		Amount
+PIN GUAGE		10 Pcs		3,000		------
+Block PIN			17 Pcs		4,500		------
+
+Step 7:-Voucher-->Press F8(Sale)
+
+7.JEW Received Pending Due amount from JTEKT With Rs 1,06,500 by Cash
+
+Step 8:-Goto Vouchers-->Press F6(Receipt)
+Cr.JTEKT			1,06,500
+Dr.Cash				1,06,500
+---------------------------------------------------------------------

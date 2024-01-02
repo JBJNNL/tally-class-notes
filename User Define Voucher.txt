@@ -1,0 +1,45 @@
+			USER DEFINE VOUCHER:-
+-----------------------------------------------------------------------------------
+1.M/s Ram Trading Maintain Following Bank Balance:--->
+		1.SBI Bank		2,00,000
+		2.PNB Bank		3,00,000
+Step 1:-Create-->Ledgers-->Given Above
+Under Group-->Bank Account
+		1.SBI Bank		2,00,000
+		2.PNB Bank		3,00,000
+
+2.M/s Ram Trading Create Following User Define Vouchers:-
+	1.Bank Payment(SBI Bank,PNB Bank)
+	2.Bank Receipt(SBI Bank,PNB Bank)
+Step 2:-Create-->Voucher types-->
+	SBI Bank(Payment)
+	PNB Bank(Payment)
+	SBI Bank(Receipt)
+	PNB Bank(Receipt)
+
+3.M/s Ram Trading Paid Following Expenses.
+	1.Salary	20,000(SBI Bank ,Che.No-123456)
+	2.Office Exp.	40,000(SBI Bank	,Che.No-123457)
+
+Step 3:-Vouchers-->Press F5(Choose SBI Bank Voucher)
+	Dr.Salary Ac(Indirect Exp.)	20,000
+	Cr.SBI Bank			20,000
+Step 4:-Vouchers-->Press F5(Choose SBI Bank Voucher)
+	Dr.Office Exp.(Indirect Exp.)	40,000
+	Cr.SBI Bank			40,000
+
+4.M/s Ram Trading Received Following incomes
+	1.Rent Rec.	50,000(PNB Bank, Che.No-888888)
+	2.Comission Rec.1,00,000(SBI Bank, Che.No-554433)
+Step 5:-Vouchers-->Press F6(Choose PNB Bank Rec. Voucher)
+
+Dr.PNB Bank					50,000
+Cr.Rent Rec.(Indirect Income)			50,000
+
+Step 6:-Vouchers-->Press F6(Choose SBI Bank Rec. Voucher)
+
+Dr.SBI Bank					1,00,000
+Cr.Comission Rec.(Indirect Income)		1,00,000
+
+
+----------------------------------------------------------------------

@@ -1,0 +1,28 @@
+		     -:Calculator Magical Tricks:-
+---------------------------------------------------------------------------------------------------------
+
+M/s Ram Trading Maintain Following Balance:-
+
+Capital(Capital A/c) 	5,00,000
+
+Bank Account		2,00,000
+SBI Bank			1,00,000
+HDFC Bank		1,00,000
+
+Sundry Creditors:-
+Mr Ramesh Cr		1,80,000
+Mr Deepak Cr		2,50,000
+Mr Rajesh Cr		3,00,000
+
+Sundry Debtors:-
+Mr Kapil Dr			2,60,000
+Mr Rahul Dr			3,60,000
+
+Stock:-
+Item Name			Qty		Rate		Amount
+Computer			20 Pcs		20,000		----------
+Printer				10 Pcs		10,000		----------
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+Open Calculator Shortcut:-Control+N

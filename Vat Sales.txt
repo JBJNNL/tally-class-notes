@@ -1,0 +1,48 @@
+		 VAT(Value Added Tax) on Sales
+
+1.Ram Filling Station Maintain Following items into Stock
+Item Name		Qty		Rate		Amount
+Petrol			500 Ltr		70		-----------
+Diesel			500 Ltr		80		-----------
+Total							-----------
+
+Step 1:-Enable Vat-->Yes
+TIN-->45664674674
+Tax Rate-->19.40%	
+
+Step 2:-Create-->Stock Items-->Given Above
+Vat Applicable-->Applicable
+Set/Alter Vat details-->
+Tax Rate -->19.40%
+
+2.Ram Filling Station Sales Following items to R.K Petrol Pump
+Item Name		Qty		Rate		Amount
+Petrol			300 Ltr		80		-----------
+Diesel			400 Ltr		90		-----------
+Total							-----------
+Output VAT@19.40%						----------
+
+Step 3:-Vouchers-->Press F8(Sales)
+Party Name:-R.K Petrol Pump(S.D)-->Set/alter Vat Details-->Yes-->VAT TIN:-53342342345
+Sales a/c(Sales A/c)-->Is Vat Applicable-->Applicable-->
+Set/alter Vat details-->Yes-->N.O.T-->Sales Taxable-->Tax Rate-->19.40%-->Local Vat Same-->
+Item Name		Qty		Rate		Amount
+Petrol			300 Ltr		80		-----------
+Diesel			400 Ltr		90		-----------
+Total							-----------
+Output VAT@19.40.%(D.T-->Vat-->19.40%				----------
+
+3.Ram Filling Station Maintain SBI Bank Balance-->Rs 50,000
+Step 4-->Create-->Ledger-->SBI Bank(B.A)-->50,000
+4.Ram Filling Station Paid Vat Tax with Rs 11,640 by SBI bank(NET Banking)
+Step 5:-Vouchers-->Press F5(Payment)-->autofill-->
+Dr.Output Vat@19.40%				-----
+Cr.SBI Bank				-----	
+
+5.Ram Filling Station Received Pending Due Bill Amount Rs ----------- by Cash
+
+Step 6-->Vouchers-->Press F6(Receipt)
+Cr.R.K Petrol Pump				----------
+Dr.Cash					----------
+
+TASK Purchase VAT

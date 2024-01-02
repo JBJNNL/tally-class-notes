@@ -1,0 +1,28 @@
+Composition Dealer:-
+1.5 Cr. 75 Lakh.
+GSTIN:-06ASUPK0785C1ZK
+-----------------------------------------------------------------------------------
+1.M/s R.R Trading purchase following Items: Composition to Regular
+Party Name:-Mr Deepak GSTIN:-06ADCPH5412J1ZV
+Item Name	HSN/SAC		QTY		RATE		AMOUNT
+Aluminium ladders	7616		20 Pcs		3,000		------
+GST Rate@18%							------
+
+Step 1:-Enable GST-->Registration Type-->Compostion Total turnover 1%
+Step 2:-Vouchers-->Press F9(Purchase)
+Party Name:-Mr Deepak(S.C) GSTIN:-06ADCPH5412J1ZV
+Purchase Ledgers-->Purchase A.c(Purchase A/c)
+Item Name	HSN/SAC		QTY		RATE		AMOUNT
+Aluminium ladders	7616		20 Pcs		3,000		------
+SGST@9%
+CGST@9%
+
+
+2.M/s R.R Trading Purchase Following Items:-Compostion to Composition:-
+Party Name:-Mr Ramesh GSTIN:-06IXMPS2124E1ZD
+Item Name		HSN/SAC		QTY		RATE		AMOUNT
+LED			8542		20 Pcs		10,000		------
+GST Rate@18%								------
+
+Step 3:-Vouchers-->Press F9(Purchase)
+-----------------------------------------------------------------------------------

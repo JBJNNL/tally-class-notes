@@ -1,0 +1,51 @@
+		Purchase From Interstate(Integrated Tax)-->IGST
+-----------------------------------------------------------------------------------------
+M/s Ram Trading (Haryana)GSTIN:-06ASUPK0785C1ZK
+1.M/s Ram Trading Purchase following items 
+Party Name:-KCM Ltd(Rajasthan)GSTIN:-08ESDPK9602R1Z0
+Item Name	HSN/SAC		QTY		RATE		AMOUNT
+Cooler		8834		30 Pcs		8,000		------
+Air Conditioner	8853		20 Pcs		35,000		------
+Total								------
+IGST@28%							------
+
+2.M/s Ram Trading Sale Following Items 
+Party Name:-M/s R.R(Delhi)GSTIN:-07AAACL1745Q1Z6
+Item Name	HSN/SAC		QTY		RATE		AMOUNT
+Cooler		8834		30 Pcs		10,000		------
+Air Conditioner	8853		20 Pcs		40,000		------
+Total								------
+IGST@28%							------
+
+
+3.ITC Claim:-
+
+4.GST Payment:-
+
+-----------------------------------------------------------------------------------
+Step 1:-GST Enable:-Yes
+
+Step 2:-Vouchers-->Press F9(Purchase)
+Party Name:-KCM Ltd(S.C)(Rajasthan)GSTIN:-08ESDPK9602R1Z0
+P.L:-Purchase A/c(Purchase A/c)
+Item Name	HSN/SAC		QTY		RATE		AMOUNT
+Cooler		8479		30 Pcs		8,000		------
+Air Conditioner	8415		20 Pcs		35,000		------
+Total								------
+IGST@28%(D.T)-->GST-->Integrated Tax)				------			
+
+Step 3:-Vouchers-->Press F8(Sale)
+Party Name:-M/s R.R(S.D)(Delhi)GSTIN:-07AAACL1745Q1Z6
+S.L:-Sales A/c(Sales A/c)
+Item Name	HSN/SAC		QTY		RATE		AMOUNT
+Cooler		8479		30 Pcs		10,000		------
+Air Conditioner	8415		20 Pcs		40,000		------
+Total								------
+IGST@28%							------
+
+Note:-Maintain SBI Bank (Bank A/c) Balance -->1,00,000
+
+Step 4:-Press F5(Payment)Autofill-->
+Dr.IGST					44,800
+Cr.SBI Bank				44,800
+----------------------------------------------------------------------------------------				

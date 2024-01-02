@@ -1,0 +1,63 @@
+		     -:Purchase Order Processing:-
+----------------------------------------------------------------------------------------
+1.JTEKT Send Purchase Order to Jyoti Engg.Works
+Order N0-12345		Order DT.01/04/2023
+Order Due Dt:-1-5-2023
+Item Name	Qty		Rate		Amount
+PIN GUAGE	10 Pcs		3,000		------
+Block PIN		20 Pcs		4,500		------
+
+
+Step 1:-Vouchers-->Other Voucher-->Show Inactive-->
+Purchase Order -->Activate karna hai:-
+
+Step 2:-
+Party Name:-Jyoti Engg.Works(Sundry Creditor)
+Purchase Ledger-->Purchase (Purchase a/c)
+Order N0-12345		Order DT.01/04/2023
+Order Due Dt:-1-05-2023
+Item Name	Qty		Rate		Amount
+PIN GAUGE	10 Pcs		3,000		------
+Block PIN		20 Pcs		4,500		------
+
+Step 3:-Check Order-->Goto Display-->Statement of inventory-->Purchase order Outstanding-->All Oder-->Period Change(1-4-23 to 1-5-23) 
+
+
+2.JTEKT Received Pending Due items from JEW Ref Order. 12345.
+Recept Dt. 01-5-2023
+Item Name	Qty		Rate		Amount
+PIN GUAGE	10 Pcs		3,000		------
+Block PIN		20 Pcs		4,500		------
+
+Step 4:-Vouchers-->Other Voucher-->Show Inactive-->
+Receipt Note-->Activate karna hai:-
+
+Party Name:-JEW
+Select Order Number-->12345
+Enter Enter Karte Jao or Accept Krwa do
+
+
+3.JTEKT Rejected following items to JEW Ref. Order No-12345
+Rejected Dt.-02-05-2023
+Item Name	Qty		Rate		Amount
+Block PIN		03 Pcs		4,500		------
+
+Step 5:-Vouchers-->Other Voucher-->Show Inactive-->
+Rejection out-->Activate karna hai:-
+Party Name:-JEW
+Item Name	Qty		Rate		Amount
+Block PIN		03 Pcs		4,500		------
+Select Same Order -12345
+Prime Tally:-
+
+4.JTEKT Purchase following items from JEW Order Ref. No-12345
+Item Name	Qty		Rate		Amount
+PIN GUAGE	10 Pcs		3,000		------
+Block PIN		17 Pcs		4,500		------
+
+Step 6:-Press F9(Purchase)
+
+TASK
+Step 7:-Payment to JEW 
+Cash -->2,00,000
+--------------------------------------------------------------------------------------------------------------------------------

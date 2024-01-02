@@ -1,0 +1,43 @@
+			-:Compound Unit:-
+--------------------------------------------------------------------------
+1.Patanjali Maintain Following Items into Stock:-
+Item Name		Qty		Rate		Amount
+Chilli			50 KG		45		------
+OIL			90 Ltr		75		------
+Rice			50 KG		40		------
+Alovera Juice		50 Ltr		250		------
+
+Step 1:-Create-->Unit-->Simple-->Ltr,ML,KG,G
+Step 2:-Create-->Compound Unit-->
+1 Ltr of 1000 ML
+1 KG of 1000 G
+
+Step 3:-Create-->Stock Items-->Given Above 
+Press 12-->Provide Standred Buying and Selling Rates-->Yes
+
+2.Patanjali Sales Following Items by Cash(Customer)
+Item Name		Qty		Rate		Amount
+Chilli			5.500 KG		65		------
+OIL			5 Ltr 500 ML	80		------
+Rice			10 KG 500 G	45		------
+Alovera Juice		600 ML		260		------
+
+
+Step 4:-Voucher-->Press F8(Sale)
+Party Name:-Cash
+Sales Ledgers:-Sales a/c(Sales A/c)
+Item Name		Qty		Rate		Amount
+Chilli			5.500 KG		65		------
+OIL			5 Ltr 500 ML	80		------
+Rice			10 KG 500 G	45		------
+Alovera Juice		.600 ML		260		------
+
+Total							------------
+
+Round off(Indirect Expense)					-6 	
+---------------------------------------------------------------------------------------------------------------
+
+Task
+iron:-
+qtl:-
+1 qtl =100 KG

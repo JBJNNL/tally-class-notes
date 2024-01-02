@@ -1,0 +1,51 @@
+				UTGST:-Union Territory 
+
+1.Chandigarh
+2.Delhi
+3.Dadar nagar Haveli
+4.Daman Diu
+5.Andman Nikobar
+6.Lakshadweep
+7.Jammu Kashmir.
+8.Ladakh.
+9.Panducheri
+
+1.Delhi & Panducheri With legislature 
+----------------------------------------------------------------------------------------------------------------------------------------
+Ram trading GSTIN:-04AAALM0758K1Z1
+1. M/s Ram trading purchase following items from Chandigarh
+Party Name:-M/s Ramesh(S.C)GSTIN-04AAACL1745Q1ZC
+Purchase a/c(Purchase A/c) 
+Item Disc.		HSN/SAC		QTY		RATE	AMOUNT
+LED		8542		10 Pcs		10,000		------
+UPS		8543		30 Pcs		05,000		------
+Total								------		
+UTGST@9%							------		
+CGST@9%							------
+
+Step 1:-Vouchers -->Press F9(Purchase)
+
+2.M/s Ram Trading Sales following items 
+Party Name:M/s R.R Trading(S.D):-GSTIN:-04AABCU9603R1ZV
+Sales a/c (Sales a/c)
+Item Disc.		HSN/SAC		QTY		RATE		AMOUNT
+LED		8542		10 Pcs		13,000		------
+UPS		8543		30 Pcs		08,000		------
+Total								------
+UTGST@9%							------
+CGST@9%							------
+
+Step 2:-Vouchers-->Press F8(Sale)
+
+3.M/s Ram Trading Maintain Bank Balance into SBI Bank With Rs 1,00,000 .
+
+Step 3:-Create-->Ledger-->SBI Bank(Bank Account)-->1,00,000
+
+3.M/s Ram Trading Paid Tax to Tax Departement With Rs 21,600 by Netbanking(SBI Bank)
+
+Step 4:-Vouchers-->Press F5(Payment)-->Autofill-->
+Dr.UT GST			10,800
+Dr.CGST				10,800
+Cr.SBI Bank				21,600
+-----------------------------------------------------------------------------------
+

@@ -1,0 +1,33 @@
+		   Export Taxable Out of india:-
+----------------------------------------------------------------------------------------------
+1.M/s Ram Trading Maintain Following Items  GSTIN-06ASUPK0785C1ZK
+Item Name	HSN/SAC 	Qty		Rate	Amount
+CPU		9842		10 Pcs		3,000	-----
+LED		9532		30 Pcs		4,000	-----
+
+Step 1:-Create-->Stock Items-->Given Above:-
+All Items GST applicable @18%
+
+2.M/s Ram Trading Sales Following Items:-
+Party Name:-Yontra Ltd(S.D)
+Sale Ledgers :-Sales Under Export
+Item Name	HSN/SAC 	Qty		Rate	Amount
+CPU		9842		10 Pcs		6,000	-----
+LED		9532		30 Pcs		7,000	-----
+
+Step 2:-Create-->Voucher type-->Export GST(Sales Account) 
+
+Step 3:-Voucher-->Press F8(Export GST)
+Party Name:-Yontra Ltd(Sundry.Debtor)-->USA
+Sale Ledgers :-Sales Under Export(Sales A/c) Is GST  Applicable(Applicable)-->N.O.T-->Export Taxable
+Item Name	HSN/SAC 	Qty		Rate	Amount
+CPU		9842		10 Pcs		6,000	-----
+LED		9532		30 Pcs		7,000	-----
+Total							-----
+IGST@18%-->D.T-->GST--->Integrated Tax-->
+
+Note-->SBI Bank -->1,00,000
+
+Step 4:-Payment of GST:-Press F5(Payment)Autofill
+-----------------------------------------------------------------------------------
+

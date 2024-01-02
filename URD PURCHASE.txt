@@ -1,0 +1,51 @@
+ 		      || Purchase from URD(Unregistered Dealer) ||
+B2BUR
+-----------------------------------------------------------------------------------------
+Rerverse Charge Machenism:-(RCM)
+M/s Ram Trading GSTIN:-06ASUPK0785C1ZK
+
+1.M/s Ram Trading Purchase Following Items 
+Party Name:-Mr R.R 		Bill N0-123
+
+Item Name	HSN/SAC		Qty		Rate		Amount
+LED		8542		20 Pcs		15,000		-------
+CPU		8544		10 Pcs		10,000		-------
+
+Total								--------
+Note:-This Invoice under Reverse Charge:-
+
+2.Adjustment Reverse Charge:-
+
+3.Payment Tax:-
+
+4.Claim Tax:-
+
+--------------------------------------------------------------------------------
+Step 1:- Enable Tax Liab. On Reverse Charge-->Yes
+
+Step 2:-Vouchers-->Press F9(Purchase)
+Party Name:-Mr R.R (S.C)->Reg. Type->URD(Unregistered)
+Purchase A.c(Purchase a/c)-->Nature of Transaction->Purchase from Ureg. Dealer-Taxable
+Is Reverse charge Applicable-->Yes
+GST Rate:-18%
+Bill N0-123
+Item Name	HSN/SAC		Qty		Rate		Amount
+LED		8542		20 Pcs		15000		-------
+CPU		8544		10 Pcs		10000		-------
+
+Total								--------
+How to Check GST-->More details-->Enter-->Gst Tax Anylsis-->
+
+Step 3:-Display-->GST Report-->GST-3B-->Alt+J(Adjustment)
+Nature of Adjustment-->Increase Tax Liab. & ITC
+Dr.SGST			36,000
+Dr.CGST			36,000
+Cr.SGST				36,000
+Cr.CGST				36,000
+
+Note:-SBI Bank Balance Maintain --->1,00,000
+
+Step 4:-Press F5(Payment)-->Autofill-->Receipient Lib.
+Dr.SGST			36000
+Dr.CGST			36000
+Cr.SBI Bank			72000

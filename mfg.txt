@@ -1,0 +1,45 @@
+ 			Manufacturing and Expire Date:-
+-----------------------------------------------------------------------------------------
+1.M/s R.K Introduce capital with amount of Rs 5,00,000 by cash.
+
+2.M/s R.K Maintain Following Items in stock 
+Item Name	QTY	MFG.Date Expire Date	Rate
+1.Biscuit		50/Pkt	1-1-2023	1-8-2023		10
+2.Namkin		40/Pkt	1-1-2023	1-2-2024		10
+3.Cold Drink	20/Pcs	1-1-2023	1-6-2023		80
+
+3.M/s R.k Sales following Items by Cash
+Item Name	QTY	MFG.Date Expire Date	Rate
+1.Biscuit		30/Pkt	1-1-2023	1-8-2023		20
+2.Namkin		20/Pkt	1-1-2023	1-2-2024		20
+3.Cold Drink	10/Pcs	1-1-2023	1-6-2023		100
+------------------------------------------------------------------------------------------------------------------------------
+Step 1:-
+Prime:-Enable Batches-->Yes
+Maintain Expiry Date & Batches-->Yes
+
+Step Vouchers-->Press F6(Receipt)
+Cr.M/s R.K Capital (Capital a/c)				5,00,000
+Dr.Cash							5,00,000
+
+Step 3:-Create-->Stock Items--:-Batch No-B001
+Item Name	QTY	MFG.Date Expire Date	Rate
+1.Biscuit		50/Pkt	1-1-2023	1-8-2023		10
+2.Namkin		40/Pkt	1-1-2023	1-2-2024		10
+3.Cold Drink	20/Pcs	1-1-2023	1-6-2023		80
+
+Note:-Maintain in batches -->Yes
+Track date manufacturing-->Yes
+Use expiry date-->Yes
+Apply all item creatation time:-
+
+Step 4:-Press F8(Sale)
+Party Name:-Cash-->Mr Deepak
+Sale.A.c(Sales.A/c)
+Item Name	QTY	MFG.Date 	Expire Date	Rate
+1.Biscuit		30/Pkt	1-1-2023		1-8-2023		20
+2.Namkin		20/Pkt	1-1-2023		1-2-2024		20
+3.Cold Drink	10/Pcs	1-1-2023		1-6-2023		100
+Note:-Use Mfg and Expire date :-
+
+-----------------------------------------------------------------------------------

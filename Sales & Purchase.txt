@@ -1,0 +1,37 @@
+   			Purchase & Sale
+------------------------------------------------------------------------------------------------------------------------------------
+1.R.K Purchase following items :-		Bill No-121 Date:-1-4-2021
+Party Name:-Mr Deepak
+Purchase Ledgers-->Purchase a/c
+Item Name		Qty|Unit		Rate		Amount
+Cooler			20 Pcs		8,000		-------
+Invertor			10 Pcs		15,000		-------
+Total							-------
+
+Step 1:-Vouchers-->Press F9(Purchase)
+Party Name:-Mr Deepak(Sundry Creditor)
+Purchase Ledgers-->Purchase a/c(Purchase Account)
+Item Name		Qty		Rate		Amount
+Cooler			20 Pcs		8,000		-------
+Invertor			10 Pcs		15,000		-------
+Total							-------
+Note-->Jab bhi aap koi Ledger(Khaata),Item,Unit banate ho to uski shortcut key alt+C
+Press Spacebaar
+
+2.R.K Sale following items Bill No-001 Date:-2-4-2021
+Party Name:-Mr Ramesh
+Sales Ledgers-->Sale a/c
+Item Name		Qty		Rate		Amount
+Cooler			10 Pcs		10,000		-------
+Invertor			05 Pcs		18,000		-------
+Total							-------
+
+Step 2:-Vouchers-->Press F8(Sales)
+Party Name:-Mr Ramesh(Sundry Debtors)
+Sales Ledgers-->Sale a/c(Sales a/c)
+Item Name		Qty		Rate		Amount
+Cooler			10 Pcs		10,000		-------
+Invertor			05 Pcs		18,000		-------
+Total							-------
+
+----------------------------------------------------------------------------------------------------------------------------------------

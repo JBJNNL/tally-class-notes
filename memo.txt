@@ -1,0 +1,28 @@
+	                 -:Memorandum Voucher:-
+----------------------------------------------------------------------------------
+1.M/s R.K Trading Maintain Cash With Rs 1,00,000
+
+Step 1:-Alter--->Ledgers-->Cash-->1,00,000
+
+2.M/s R.K Trading Paid 10,000 for Office Expenses to Mr Deepak(Employee)
+Note:-This Entry Recoreded into Memo Voucher for Reminder.1-4-2023
+
+Step 2:-Vouchers-->Others Voucher-->Show inactive-->Memorandum -->Activate Karna hai.
+Dr.Office Expenses(Indirect Expesnes)		10,000
+Cr.Cash						10,000
+
+Step 3:-Goto Display-->Exception Reports-->Memorandum Register-->
+
+3.M/s R.K Trading Record Entry for Office expenses 
+	Office Expenses 8,000		1-5-2023
+
+Step 4:-Goto Display-->Exception Reports-->Memorandum Register-->Change Voucher(Payment) Change Date-->and Accept Entry:-
+
+----------------------------------------------------------------------------------
+Task:-Cost Categories & Centres
+Office Expenses paid into Following Categories:-
+1.Tea Expenses			3,000
+2.Stationery Expenses		2,000
+3.Mentence Expenses		3,000
+
+-----------------------------------------------------------------------------------

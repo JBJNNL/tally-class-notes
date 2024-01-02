@@ -1,0 +1,50 @@
+			-:Discount on Purchase/Sale:-
+Trade Discount:-
+//Cash Discount:-
+-----------------------------------------------------------------------------------------
+1.M/s Ram Trading Purchase following items :
+Party Name:-M/s Neeraj Trading		Bill No-111 	Date:-01-04-23
+Purchase Ledger-->Purchase a/c
+Item Name		Qty		Rate		Amount
+Cooler			20 Pcs		5,000		-------
+Printer			10 Pcs		10,000		-------
+Total							2,00,000
+Discount Received				(-)5.5%		--------
+Transporation Charge					1,000
+
+Note:-Jab bhi koi Ledgers change karna hai to shortcut key Control+Enter
+
+Step 1:-Vouchers-->Press F9(Purchase)
+Party Name:-M/s Neeraj Trading(Sundry Creditor)
+Purchase Ledger-->Purchase a/c(Purchase a/c)
+Item Name		Qty		Rate		Amount
+Cooler(LG)		20 Pcs		5,000		-------
+Printer(HP)		10 Pcs		10,000		-------
+Total							2,00,000
+Discount Received(Indirect Income)		(-)5.5%		-11,000
+Transporation Charge(Indirect Expense)			1,000
+Net							1,90,000
+
+Note:-Agar aap Item select karna chahte ho to Spacebaar Press Karo
+
+Step 2:-Create-->Ledgers-->SBI Bank(Bank Account)-->2,00,000
+
+2.M/s Ram Trading Paid pending due bills amount to M/s Neeraj Trading with Rs 1,90,000 by Cheque
+
+Step 3:- Vouchers-->Press F5(Payment)
+Dr.M/s Neeraj Trading			1,90,000
+Cr.SBI Bank				------------
+Cheque No-000001
+
+--------------------------------------------------------------------------------------------------------
+Task:-Sales Discount:-
+Discount Allow(Indirect Expense) 4.5%
+1.M/s Ram T rading Sales following items :
+Party Name:-M/s Ramesh Trading(S.D)		Bill No-001 	Date:-01-04-23
+Sales Ledger-->Sales a/c(Sales A/c)
+Item Name		Qty		Rate		Amount
+Cooler			20 Pcs		8,000		-------
+Printer			10 Pcs		13,000		-------
+Total							-------
+Discount Allow(indirect Expense)		(-)4.5%		-------
+Transporation Charge(Indirect income)				2,000

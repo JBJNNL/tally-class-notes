@@ -1,0 +1,62 @@
+1. M/s R.K Trading Maintain Opening Balance for Reserve:-
+	1.Capital A/c:-10,00,000
+		1.Mr Ram Capital ------>4,50,000
+		2.Mr Deepak Capital--->2,50,000
+		3.Mr Ramesh Capital--->3,00,000
+	2.General Reserve:-1,00,000
+	3.Capital Reserve:-2,00,000
+	4.Advertisement :-30,000	
+
+Step 1:-Create-->Ledgers-->
+	1.Capital A/c(Capital A/c):-10,00,000
+		1.Mr Ram Capital --->4,50,000
+		2.Mr Deepak Capital-->2,50,000
+		3.Mr Ramesh Capital--->3,00,000
+	2.General Reserve(Reserve & Surplus):-1,00,000
+	3.Captail Reserve(Reserve & Surplus):-2,00,000
+	4.Advertisement(Misc. Expenses) :-30,000
+
+2.M/s R.K Trading Opening New Branch (R.K Trading H.O) With Rs 5,00,000.
+
+Step 2:-Press F5(Payment)
+Dr.R.K Trading Rewari Branch(Brach & Division)		5,00,000
+Cr.Cash							5,00,000
+
+3.M/s R.K Trading Open an Account into SBI Bank with OCC/OD Limit 1,00,000
+
+Step 3:-Create-->Ledgers-->SBI OD A/c(OD/OCC)-->
+
+4.M/s R.K Trading Paid LIC With Rs 2,000 by Cash.
+Step 4:-Press F5(Payment)
+Dr.LIC(Investment)		2,000
+Cr.Cash				2,000
+
+5.M/s R.K Trading Maintain Following Items
+Item Name		QTY		RATE		AMOUNT
+CPU			30 Pcs		10,000		------
+LED			20 Pcs		11,990		------
+
+Step 4:-Create-->Stock Items-->Given Above:-
+
+6/M/s R.K Trading Sales Following Items 
+Party Name:-Mr Neeraj
+Sales Ledger :-Sales A/c
+Item Name		QTY		RATE		AMOUNT
+CPU			30 Pcs		13,000		------
+LED			20 Pcs		14,990		------
+
+Step 5:-Press F8(Sales)
+
+7.M/s R.K Trading Receved Pending Due Amount from Mr Neeraj with Rs 6,80,000 by Cash and Partial Amount Pending With Rs 9,800 .
+
+Step 6:-Press F6(Receipt)
+Cr.Mr Neeraj			6,80,000
+Dr.Cash				6,80,000
+
+
+8.M/s R.K Trading Maintain Bed Debts Account for Not Recover From Mr Neeraj With Rs.9,800
+
+Step 6:-Press F7(Journal)
+Dr.Bed Debts(Abnormal Loss(Indirect Exp))	9,800
+Cr.Mr Neeraj					9,800
+----------------------------------------------------------------------------------

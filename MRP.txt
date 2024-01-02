@@ -1,0 +1,67 @@
+			MRP(Maximum Retail Price) ON GST
+
+GSTIN:-06ASUPK0785C1ZK
+-----------------------------------------------------------------------------------
+1.M/S R.R Introduce Capital with amount of Rs 5,00,000 by cash.
+
+2.M/s R.R Maintain Following Items into Stock
+Item Name	HSN/SAC		QTY	Rate	MRP/Margin		
+CPU		8466		10/Pcs	15,000	19,700		
+LED		8466		15/pcs	14,000	18,520		
+
+3.M/s R.R Sales Following goods to M/s Ramesh 06ADCPH5412J1ZV	
+Item Name	HSN/SAC		QTY	Rate	MRP		
+CPU		8466		10/Pcs	15,000	19,700		
+LED		8466		5/PCs	14,000	18,520		
+Total						------
+SGST@9%					9%
+CGST@9%					9%	
+
+4.M/s R.R Trading Maintain Bank Balance into SBI Bank 1,00,000 by Cash
+
+5.M/s R.R Trading Paid Tax With Rs 39,600 by Net Banking.	
+---------------------------------------------------------------------------------------------------------------
+
+Step 1:-Enable GST-->Yes
+
+
+Step 2:-Goto inventory into--->Stock Items -->Create:->
+Prime:-Create-->Stock Items-->
+Item Name	HSN/SAC		QTY	Rate	MRP		
+CPU		8466		10/Pcs	15,000	19,700--->2000 Margin+2700 GST
+LED		8466		15/pcs	14,000	18,520--->2000 Margin+2520 GST		
+Note:-When You creating Stock Item Press F12-->
+GST-18% Applicable:-
+
+Prime:-Provide MRP Details-->Yes
+
+Step 3:-Vouchers-->Press F8(Sales)
+Party Name:-M/s Ramesh(Sundry Debtors)-->GST--06ADCPH5412J1ZV
+Sales Ledger:-Sales A.c(Sales A/c)
+Item Name	HSN/SAC		QTY	Rate	MRP		
+CPU		8466		10/Pcs	16,000	19,700		
+LED		8466		5/PCs	15,000	18,520		
+Total						------
+SGST@9%					9%
+CGST@9%					9%
+
+
+Note:-When You Printing the invoice Press F12-->Allow MRP Marginal in invoice-->Yes.
+
+Step 4:-Vouchers--->Press F4(Contra)
+Cr.Cash					1,00,000
+Dr.SBI Bank(Bank Ac)			1,00,000
+
+Step 5:-Vouchers-->Press F5(Payment)-->Autofill
+Dr.CGST		
+Dr.SGST
+Cr.SBI Bank
+--------------------------------------------------------------------------------------------------------------------------
+
+TASK:-MRP on Purchase
+
+
+
+
+
+

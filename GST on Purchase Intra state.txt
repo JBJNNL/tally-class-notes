@@ -1,0 +1,48 @@
+ 			GST on Purchase Intra State(Same State)
+
+KCM Ltd:-06ASUPK0785C1ZK
+
+1.KCM Ltd Purchase Following Item 
+Party Name:-M/s R.K Trading(GSTIN:-06ADCPH5412J1ZV)	101
+Item Name	HSN/SAC		Qty		Rate		Amount
+Cooler		847960		20 Pcs		6,000		------
+Fridge		841829		10 Pcs		15,000		------
+Total								------
+SGST						9%		------
+CGST						9%		------
+
+2.KCM Ltd Purchase retruns following Items to M/s R.K trading
+Item Name	HSN/SAC		Qty		Rate		Amount
+Cooler		847960		2 Pcs		6,000		------
+Fridge		841829		2 Pcs		15,000		------
+Total								------
+SGST						9%		------
+CGST						9%		------
+
+----------------------------------------------------------------------------------------------------------------------------------------
+Step 1:-Enable GST :-
+
+
+Step 2:-Vocuhers-->Press F9(Purchase)
+Party Name:-M/s R.K Trading(Sundry.Creditor)
+Note:-Registration Type:-Regular:-
+(GSTIN:-06ADCPH5412J1ZV) Paste Shortcut:-Control+Alt+V
+Purchase Ledger-Purchase GST@18%(P.A)
+Statutory Details:-
+Is Gst Applicable:-Applicable
+Type of supply:-Goods:-
+Item Name	HSN/SAC		Qty		Rate		Amount
+Cooler		847960		20 Pcs		6,000		------
+Fridge		841829		10 Pcs		15,000		------
+Total								------
+SGST						 9%		------
+CGST						 9%		------
+
+Note:-
+All items include 18% Gst 
+Note:-
+SGST & CGST both are under Duties & Taxes:-->type of duty-->GST-->Tax type-->State Tax-->Central Tax:-
+
+
+GST Report-->Display-->GST Report-->
+HSN Stand For-->Harmonised System Nomenclature

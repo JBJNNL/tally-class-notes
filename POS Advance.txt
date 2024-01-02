@@ -1,0 +1,58 @@
+			     POS(Point of Sale)-2
+--------------------------------------------------------------------------
+1.Chinkara Canteen Maintain following items into Store.
+Item Name		Qty		Rate		Amount
+Soap(Dove)		300 Pcs		45		------
+Hair Oil(Almond)	200 Pcs		150 		------
+Tooth Paste(Colgate)	100 Pcs		55		------
+
+Step 1:-Create-->Stock Items-->Given Above
+Note:-Jab aap koi bhi stock item create karoge to aapko F12 Button Press Karna hai
+Press F12-->Provide Standred Buying and Selling Rates-->Yes
+Note:-Jab aap Stock Item Banate ho us time Set Standred rate yes karna hai.
+
+2.Chinkara Canteen Sales Following Items to Mr Deepak(Whole Seller)
+Bill No-121				Date:-1-4-2023
+Item Name		Qty		Rate		Amount
+Soap(Dove)		60 Pcs		55		------
+Hair Oil		100 Pcs		170 		------
+Tooth Paste 		50 Pcs		65		------
+
+Total							------
+Gift Voucher:-
+Credit/Debit Card	Card No-				Amount
+Cheque-		Ch. No-123456		Bank 	Amount	
+Cash:-		Cash Tenderd			Balance:-
+
+Step 2:-Create-->Voucher Type-->
+Name:-Chinkara Canteen
+Select Type of Voucher:-Sales
+Use for POS Invoicing-->Yes
+MSG1:-Thanks for visiting
+MSG2:-Visit Again
+Default Print title:-INVOICE
+Set/alter Declearation-->Yes
+
+Step 3:-Vouchers-->Press F8(Chinkara Canteen )
+Party Name:-Mr Deepak(Sundry Debtors)
+Sales Ledgers:-Sales a/c(Sales a/c)
+Item Name		Qty		Rate		Amount
+Dove Soap		60 Pcs		55		------
+Hair Oil		100 Pcs		170 		------
+Tooth Paste 		50 Pcs		65		------
+
+Total							------
+Gift Voucher:-Chinkara Gift Coupan(Sundry Debtors)	3000
+Credit/Debit Card SBI Bank	Card No-5634563456		Amount-10,000
+SBI Bank(Bank A/c)
+Cheque			Ch. No-123456		Bank 	Amount 10,000	
+Cash:-	550		Cash Tenderd-->600		Balance:-50
+
+
+Multi Mode Payment
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Task:-
+City Bazar:-
+Discount
+Total/Separate

@@ -1,0 +1,37 @@
+	 BRS(Bank Reconsilation Statement)Core Banking
+--------------------------------------------------------------------------
+1.M/s Ram Trading open an accounts following banks:-
+	1.SBI Bank		1,00,000	
+	Account No-12234343
+	IFSC Code:-
+	Cheque Range:-000001 to 000050 total Chk-50
+	2.HDFC Bank		2,00,000
+	Account No-63456456456
+	IFSC Code:-
+	Cheque Range:-000001 to 000050 total Chk-50
+Note:-Set/alter Cheque Book-->Yes
+
+2.M/s Ram Trading paid following cheques. Payment:-
+	1.Mr Neeraj Salary(indirect Exp) 		20,000 	Chk N0-000001 SBI
+	2.Mr Deepak Salary(Indirect Exp)		50,000	Chk N0-000001 HDFC 
+
+3.M/s Ram Trading Received following Incomes by cheque.
+	1.Mr Kapil Commission(indirect Income)	1,00,000	332233 SBI Bank
+	2.Mr Manoj Commisson(Indirect Income)	1,20,000	434344 HDFC Bank
+
+Note-:Reconsilation All Cheque-->
+Banking--->Bank Reconsilation-->
+
+4.M/s Ram Trading Paid Blank Cheque to Mr Ramesh for New Project |.
+
+Step1:-Goto Alter-->Voucher type-->Payment/Receipt-->Allow Zero value Transactions-->Yes
+
+Step 2:-Goto Banking-->Cheque Reg-->Select Bank-->Cheque Range-->Select (Press Spacebar)-->Alter Status-->Blanck Cheque-->SBI Bank
+Particular-->
+Mr Ramesh(Indirect.Expenses)/S.C
+
+
+5.M/s Ram Trading Paid Cancelled Cheque to HDFC Bank(Fin. Bank)
+Step 3:-Goto Banking-->Cheque Reg-->Select Bank-->Cheque Range-->Select (Press Spacebar)-->Alter Status-->Cancelled Cheque-->
+
+-----------------------------------------------------------------------------------------

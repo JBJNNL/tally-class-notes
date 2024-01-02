@@ -1,0 +1,35 @@
+		      	User Define Vouchers:-Class
+--------------------------------------------------------------------------
+1.M/s Ram Trading Purchase Following Items
+Party Name:-Mr Shyam
+Purchase Ledgers-->Purchase a/c
+Item Name	Qty		Rate		Amount
+CPU		20 Pcs		8,000		------
+UPS		10 Pcs		5,000		------
+Total						------
+
+Class:-
+Disc-4.5%,5%,5.5%
+
+Step 1:-Alter-->Voucher type-->Purchase-->Name of Class:-Disc-4.5%,5%,5.5%
+
+Class:-4.5%
+Ledger Name:-Purchase A/c(Purchase a/c)
+Additional:-
+Ledgers Name:-Disc@4.5%(Indirect Income)
+Calculation Method-->Total Sales	Values-->-4.5%
+
+Goto Voucher-->Press F9(Purchase)
+Party Name:-Mr Shyam(Sundry Creditors)
+Item Name	Qty		Rate		Amount
+CPU		20 Pcs		8,000		------
+UPS		10 Pcs		5,000		------
+Total						------
+
+Class Choose :-Disc@4.5%
+
+---------------------------------------------------------------------
+Task :-Sales 
+5%
+5.5%
+Loading Charge:-

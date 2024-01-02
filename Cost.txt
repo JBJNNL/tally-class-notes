@@ -1,0 +1,96 @@
+		      -:Cost Centre & Categories:-
+------------------------------------------------------------------------
+1.M/s R.R Maintain Cash:-5,00,000.
+
+Step 1:-Alter->Ledgers-->Cash.
+
+2.M/s R.R Create Following Cost Category:-
+	1.Advertisement
+	2.Godowns Rent
+	3.Salary
+
+Step 2:-Create--->Show More-->Show inactive-->Cost Category-->
+	1.Advertisement
+	2.Godowns Rent
+	3.Salary
+	
+3.M/s R.R Create Following Cost Centres:-
+	1.Advertisement
+		1.Banner
+		2.Hording
+		3.Newspaper
+		4.Poster
+		5.TV Add.
+
+	2.Godowns Rent
+		1.GD 1 Rent(DHR)	
+		2.GD 2 Rent(GGN)
+		3.GD 3 Rent(NNL)
+
+	3.Salary
+		1.Mr Ramesh Salary
+		2.Mr Deepak Salary
+		3.Mr Mohan Salary
+
+Step 3:-Create--->Show More-->Cost Centres-->Given Above
+
+3.M/s R.R Paid Following expenses by Cash
+
+	1.Advertisement				50,000
+		1.Banner		10,000
+		2.Hording	10,000
+		3.Newspaper	10,000
+		4.Poster		10,000
+		5.TV Add.		10,000
+
+	2.Godowns Rent				70,000
+		1.GD 1 Rent(DHR)	25,000
+		2.GD 2 Rent(GGN)	25,000
+		3.GD 3 Rent(NNL)	20,000
+
+	3.Salary					1,80,000
+		1.Mr Ramesh Salary		50,000
+		2.Mr Deepak Salary		80,000
+		3.Mr Mohan Salary		50,000
+
+
+Step 4:-Vouchers-->Press F5(Payment)
+	Dr.Advertisement(Indirect Exp.)		50,000
+		1.Banner		10,000
+		2.Hording	10,000
+		3.Newspaper	10,000
+		4.Poster		10,000
+		5.TV Add.		10,000
+
+	Cr. Cash					50,000
+
+	Dr.Godowns Rent(Indirect.Expense)		70,000
+		1.GD 1 Rent(DHR)	25,000
+		2.GD 2 Rent(GGN)	25,000
+		3.GD 3 Rent(NNL)	20,000
+
+	Cr.Cash						70,000
+
+	Dr.Salary(Indirect.Expenses)			1,80,000
+		1.Mr Ramesh Salary	50,000
+		2.Mr Deepak Salary		80,000
+		3.Mr Mohan Salary		50,000
+
+	Cr.Cash					1,80,000 
+--------------------------------------------------------------------	
+
+Task
+Stationery Exp.			5,000
+	1.Markar:-
+	2.Pen & Pencil
+	3.A4 size Paper
+	4.Stamp Paper
+	5.NoteBook
+	6.Files
+	
+		
+Tour Exp.				1,80,000
+	1.Goa	
+	2.Manali
+	3.Kullu
+----------------------------------------------------------------------------

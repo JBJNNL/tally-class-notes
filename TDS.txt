@@ -1,0 +1,52 @@
+			TDS(Tax Deducted At Source)
+---------------------------------------------------------------------------------------------------------------
+1.M/s Ram trading Maintain Bank Balance:-SBI Bank 5,00,000.
+
+2.M/s Ram trading Paid Salary to Mr Ramesh(Employee) With Rs 25,000 by Cheque.
+Cheque No-332212 Date:-1-5-2023.
+
+Salary:-Section-192
+
+Step 1:-Enable TDS-->Yes
+TAN:-DELA02603G
+
+Step 2:-Maintain Bank Balance:-Create-->Ledger-->SBI Bank(Bank A/c)
+
+Step 3:-Voucher-->Press F7(Journal)
+Dr.Salary A/c(I.E)-->TDS Applicable-->			25,000
+Nature Of Payment:-Payment of Salary:- Rate 5%
+Cr.Mr Ramesh(C.L)TDS Deductable -->Yes
+Deductee Type--->Individual/HUF-->Residence-->		-------
+Cr.TDS on Salary(D.T-->TDS-->Payment of Salary)		-------
+
+Step 4:-Vouchers-->Press F5(Payment)
+Dr.Mr Ramesh				--------
+Cr.SBI bank				--------
+
+
+According to Slab Rate
+
+3.M/s Ram trading Paid Rent(Building & Land) To Mr Deepak with Rs 45,000 By Cheque .
+Cheque No-332213 Date:-1-5-2023.
+
+
+Rent Section:-194I
+Rate 10%
+
+Step 5:-Press F7(Journal)
+Dr.Rent A/c(I.E)				45,000
+Cr.Mr Deepak(C.L)					--------
+Deductee Type--->Individual/HUF-->Residence-->		-------
+TDS on Salary(D.T-->TDS-->Payment of Salary)		
+Cr.TDS on Rent						-------
+
+Step 6:-Press F5(Payment)
+Dr.Mr Deepak				--------
+Cr.SBI bank				--------
+
+
+Step 7:-Press F5(Payment)Autofill(TDS)
+
+
+
+-----------------------------------------------------------------------------------

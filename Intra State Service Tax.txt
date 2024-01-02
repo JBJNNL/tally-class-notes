@@ -1,0 +1,52 @@
+Service Tax:-
+Education Service:-18%
+Broadband Service:-1450+Service Tax(GST)
+Job Work
+SAC(Service Accounting Code)
+JBJ:-06ASUPK0785C1ZK
+-----------------------------------------------------------------------------------------
+
+			Intra State(Same State)
+1.JBJ Institute Provide Following Courses by Cash.
+Particular		SAC				Amount
+Tally Prime+GST	9786				14500
+
+Sales Exempted
+		
+Step 1:-Vouchers-->Press F8(Sale)Change Mode(Accounting Invoice)
+Party Name:-Cash:-Student Name:-Deepak
+
+Particular			SAC					Amount
+Tally Prime+GST(D.Income)	9786					14500
+
+Eudcational Institutions Exempted:-
+
+2.JBJ Institute Received Bill for Courier Charge from Madhur Courier Service.
+GSTIN:-06ADCPH5412J1ZV
+Particular		SAC				Amount
+Courier Service	9968				2250
+
+SGST@9%				9%	-----
+CGST@9%				9%	-----
+
+Step 2:-Vouchers-->Press F9(Purchase)
+Party Name:-Madhur Courier(Sundry.Creditor)
+GSTIN:-06ADCPH5412J1ZV
+Particular			SAC				Amount
+Courier Service(Indirect Exp)	9968				2250
+
+SGST						9%	-----
+CGST						9%	-----
+SGST&CGST--->D.T-->GST--->State GST/Central GST--->
+
+3.JBJ Institue Purchase BSNL Broadband Connection With Rs 1450+12% GST
+ 
+Step 3:-Vouchers-->Press F9(Purchase)
+Party Name :-Cash
+Particular							Amount
+BSNL Internet Connection Charge(Indirect Exp)			1450
+SGST@6%						-------
+CGST@6%						-------
+SCA:-998422
+SGST&CGST--->D.T-->GST--->State GST/Central GST--->
+-----------------------------------------------------------------------------------

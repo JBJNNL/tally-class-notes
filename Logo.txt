@@ -1,0 +1,35 @@
+			Company Logo Lagana Sikhen
+-----------------------------------------------------------------------------------------
+1.M/s R.R Started a business with amount of Rs 5,00,000 by cash.
+
+
+2.M/s R.R Maintain Following Stock Items
+Item Discription 	QTY		Rate	Amt
+Computer	10/Pcs		15,000	--------
+Printer		10/Pcs		14,000	--------
+
+
+3.M/s R.R Sale Following Items To Mr Dinesh	
+Item Discription 	QTY		Rate	Amt
+Computer	5/Pcs		18,000	--------
+Printer		5/Pcs		17,000	--------
+
+-----------------------------------------------------------------------------------
+
+
+Step 1:-Alter-->Ledgers-->cash--->5,00,000.
+
+Step 2:-Create-->Stock items-->
+Item Discription 		QTY		Rate	Amt
+Computer		10/Pcs		15,000	--------
+Printer			10/Pcs		14,000	--------
+
+Step 3:-Press F8(Sales)
+Party Name:-Mr Dinesh(Sundry Debtors)
+Sales Ledgers-->Sales A/c(Sales A/c)
+Item Discription 		QTY		Rate	Amt
+Computer		5/Pcs		18,000	--------
+Printer			5/Pcs		17,000	--------
+
+Note:-Jab aap Invoice print karoge tab configration me Include Company logo-->Yes Karna hai
+96*80 Pixel:-

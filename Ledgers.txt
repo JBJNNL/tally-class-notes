@@ -1,0 +1,21 @@
+				-:Ledgers:-Khaate
+M/s Ram Trading
+
+Step 1:-Create-->Ledger-->
+1.Capital(Capital Account)			1,50,000		
+2.Furniture(F.A)				20,000
+3.Computer(F.A)				10,000
+4.HDFC Bank Loan(Loan(Liab.)			5,00,000
+5.Petty Cash(Cash In Hand)			5,000
+6.Cash-->Alter-->Ledger-->Cash		2,00,000
+7.Capital Reserve(Reserve & Surplus)		1,20,000
+8.General Reserve(Reserve & Surplus)		60,000
+9.LED(F.A)				10,000
+10.Security Deposite(Deposite (Assets)		5,000
+11.Loan Paid (Mr Neeraj)(Loan & Advancement)	50,000
+12.ICICI Bank A/c(B.A)			25,000
+13.HDFC Bank A/c(B.A)			20,000
+14.LIC(Investment)				1,000
+15.FD(Investment)				2,500
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+

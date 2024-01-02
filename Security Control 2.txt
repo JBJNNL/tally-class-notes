@@ -1,0 +1,36 @@
+			Security Control:-
+-----------------------------------------------------------------------------------
+1.M/s Ram Trading Administrator Maintain Following Tally Operators:-
+	
+		1.Mr Deepak		User ID-		Password
+		2.Mr Ram		User ID-		Password
+
+2.M/s Ram Trading Maintain Following Purchase Bills operate by Mr Deepak
+Bill No-1
+Party Name:-Mr Ramesh
+Item Name 		Qty		Rate			Amount
+Computer		20 Pcs		20,000			------
+Printer			10 Pcs		10,000			------
+
+Bill No-2
+Party Name:-Mr Mukesh
+Item Name 		Qty		Rate			Amount
+LED			20 Pcs		10,000			------
+CD FOLDER		10 Pcs		2,000			------
+
+
+3.M/s Ram Trading Maintain Following Sale Bills operate by Mr Ram
+Bill No-1
+Party Name:-Mr Kapil
+Item Name 		Qty		Rate			Amount
+Computer		10 Pcs		23,000			------
+Printer			05 Pcs		13,000			------
+
+Bill No-2
+Party Name:-Mr Mukesh
+Item Name 		Qty		Rate			Amount
+LED			10 Pcs		14,000			------
+CD FOLDER		08 Pcs		2,500			------
+
+
+-----------------------------------------------------------------------------------

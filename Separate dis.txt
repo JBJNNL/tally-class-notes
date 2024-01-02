@@ -1,0 +1,52 @@
+		              Separate Discount Purchase & Sale
+
+-------------------------------------------------------------------------------------------------------------
+1.M/s Ram Trading Purchase following items :-
+Party Name:-Mr Ramesh Trading
+Bill No-212	
+Purchase Ledgers-->Purchase a/c
+Item Name		Qty		Rate	Dic.		Amount
+CPU			10 Pcs		8,000	4.5%		------
+UPS			10 Pcs		5,000	5.5%		------
+Table			20 Pcs		4,500	N/A		------
+
+
+Step 1:-Jab aap Company bante ho tab aapko -->Use Discount Columns In Invoice-->Yes
+
+Step 2:-Goto Vouchers-->Press F9(Purchase) 212	Date:-1-4-23
+Party Name:-Mr Ramesh Trading(Sundry Creditor)
+Purchase Ledgers-->Purchase a/c(Puchase.Account)
+Item Name		Qty		Rate	Dic.		Amount
+CPU			10 Pcs		8,000	4.5%		------
+UPS			10 Pcs		5,000	5.5%		------
+Table			20 Pcs		4,500	N/A		------
+
+2.M/s Ram Trading Sales Following Items :-
+Party Name:-Cash
+Sales Ledgers-->Sales a/c
+Item Name		Qty		Rate	Dic.		Amount
+CPU			05 Pcs		10,000	4.5%		------
+UPS			08 Pcs		7,000	5.5%		------
+Table			15 Pcs		5,500	6.5%		------	
+
+Step 3:-Vouchers-->Press F8(Sale)
+Party Name:-Cash-->Mr Deepak
+Sales Ledgers-->Sales a/c(Sales.Account)
+Item Name		Qty		Rate	Dic.		Amount
+CPU			05 Pcs		10,000	4.5%		------
+UPS			08 Pcs		7,000	5.5%		------
+Table			15 Pcs		5,500	6.5%		------	
+Total								------
+
+R/off(Indirect Expense)						-7.50
+
+3.M/s Ram Trading Paid Pending Due Bills amount to M/s Ramesh Trading with Rs 1,77,800(Remain Bal-35,850) by Cash.
+
+Step 4:-Vouchers-->Press F5(Payment)
+Dr.M/s Ramesh Trading		1,77,800
+Cr.Cash				1,77,800
+
+Step 5:-Show Profit Every Item-->Stock Summery-->Show Profit Click Kare
+----------------------------------------------------------------------
+
+Task-->Remaining Stock sales and Close Account to M/s Ramesh Trading:-

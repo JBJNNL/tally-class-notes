@@ -1,0 +1,102 @@
+  		       Manufacturing with BOM(Bill of Material)
+-----------------------------------------------------------------------------------------------
+			       Making Slice Cold Drink
+
+1.Slice Com. maintain following Raw material for making slice cold drink.
+Item Discription      Loc.	QTY		Rate		Amount
+Suger		Shop1	1 Kg.		20		-------
+Mango		""	1 Kg.		20		-------
+Milk		""	1 Ltr		30 		-------
+Bottal		""	5 Pcs		1 		-------
+
+2.Slice Com. Create BOM(Bill of Material )For Slice cold drink.
+Press F12-->Enable BOM(Bill of Material)
+Prime:-Set Component Lis(BOM)-->Yes
+Product Name :-Slice		QTY	5 Pcs		
+
+Include Material BOM
+Item Discription			QTY		
+Suger				1 Kg.		
+Mango				1 Kg.		
+Milk				1 Ltr		
+Bottal				5 Pcs		
+
+3.Slice Com. Manufactring Slice:-
+
+Product Name:-Slice		QTY 5pcs		Loc.Shop 2	
+			Components
+Item Discription		QTY		Rate		Amount
+Suger			1 Kg.		20		-------
+Mango			1 Kg.		20		-------
+Milk			1 Ltr		30 		-------
+Bottal			5 Pcs		2 		-------
+
+		Additional Cost
+Labour Charge			500
+Elect. Cost			300
+Add. Cost				200
+
+4.Slice Com. Sales Following Item by Cash
+Party Name:-Cash
+Sales Ledger-->Sales A/c (Sales A/c)
+Item Name			Qty		Rate		Amount
+Slice				3 Pcs		100		-----------
+
+
+5.Slice Com. Paid Following Expeses by Cash.
+Labour Charge@100
+Elect Bill@100
+Add. Cost@50
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Step 1:Create-->Location(Godam)-->R.M,F.G
+
+
+Step 2:Create-->Stock Items
+Item DiscriptionLoc.	QTY		Rate		Amount
+Suger		R.M	1 Kg.		20		-------
+Mango		""	1 Kg.		20		-------
+Milk		""	1 Ltr		30 		-------
+Bottal		""	5 Pcs		1 		-------
+
+Step 4:-Create-->Stock Item-->Press F12-->Set component list(Bill of Material) in stock item-->Yes
+
+Product Name :-Slice	QTY	5 Pcs		
+
+Include Material BOM
+Item Discription		QTY		
+Suger			1 Kg.		
+Mango			1 Kg.		
+Milk			1 Ltr		
+Bottal			5 Pcs
+
+Step 5:-Create-->Voucher type-->Slice Cold Drink(Stock journal)
+Use as a manufactring journal-->Yes.
+
+Goto Voucher-->Other Vouchers-->SLICE-->
+Product Name:-Slice		QTY 5 pcs		Loc.Shop 2(F.G)	
+		Components
+	Item Discription	QTY		Rate		Amount
+Suger			1 Kg.		20		-------
+Mango			1 Kg.		20		-------
+Milk			1 Ltr		30 		-------
+Bottal			5 Pcs		1 		-------
+
+		Additional Cost
+Labour Charge(Direct.exp)			100
+Elect. Cost(Direct.exp)			100
+Add. Cost(Direct.exp)			50
+
+
+Step 6:-Voucher-->Press F8(Sales)
+Party Name:-Cash
+Sales Ledger-->Sales A/c (Sales A/c)
+Item Name			Qty		Rate		Amount
+Slice				3 Pcs		100MRP		-----------
+
+Step 7:-Vouchers-->Press F5(Payment)
+Dr.Labour charge		100
+Dr.Elect Charge		100
+Dr.Add. Cost		50
+Cr.Cash			250
+-------------------------------------------

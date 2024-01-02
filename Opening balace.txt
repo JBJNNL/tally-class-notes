@@ -1,0 +1,67 @@
+1. JBJ Institute introduce Capital 5,00,000.
+
+2. JBJ Purchase following Assests for Office.
+	1.Computers		1,00,000
+	2.Furniture		80,000
+	3.Printer			15,000
+	4.LED			10,000
+	5.Invertor			35,000
+
+	Cash			2,60,000
+
+3.JBJ Institute Deposite Cash into SBI Bank Rs-2,00,000.
+
+4.JBJ Institute Take Licence(Franchisee) for Own Institute with Rs-1,50,000
+
+5.JBJ Institute Paid Rent to Jai Durga Glass house with Rs 10,000 by Cash
+
+6.JBJ Institute Paid Office Expense With Rs 3,000 By Phone pe .
+
+7.JBJ Institute Received Fees From Mr Deepak (TALLY PRIME) With Rs 25,000 by Cash 
+---------------------------------------------------------------------------------------------------------------------------
+	
+Step 1:-Create-->Ledger-->Capital(Under Group=Capital Account)-->5,00,000
+
+Step 2:-Create-->Ledgers-->				Opening Balance
+	1.Computers(Fixed Assests)			1,00,000
+	2.Furniture(Fixed Assests)			80,000
+	3.Printer(Fixed Assests)			15,000
+	4.LED(Fixed Assests)			10,000
+	5.Invertor(Fixed Assests)			35,000
+
+Step 3:-Alter--->Ledger-->Cash-->2,60,000
+
+Balance Sheet 
+Details-->Alt+F1
+
+
+Step 4.Goto Vouchers-->Press F4(Contra)
+Cr.Cash						2,00,000
+Dr.SBI Bank(Bank Account)				2,00,000
+
+Note:-Jab Bhi aap koi bhi Ledger(Khaata) Banate ho to Alt+C:-Shortcut Key
+
+Step 5:-Goto Vouchers-->Press F5(Payment)
+Dr.Franchisee Fees(Branch & Division)			1,50,000
+Cr.SBI.Bank						1,50,000
+Chk N0-000001	
+
+Step 6:-Goto Vouchers-->Press F5(Payment)
+Dr.Rent Paid (Indirect .Expense)				10,000
+Cr.Cash							10,000
+
+Step 7:-Goto Vouchers-->Press F5(Payment)
+Dr.Office Exp. (Indirect.Exp)					3,000
+Cr.Phone Pe(SBI Bank)					3,000
+
+Step 8:-Goto Vouchers-->Press F6(Receipt)
+Cr.Mr Deepak Fees(TALLY PRIME)(Direct.Income)			25,000
+Dr.Cash							25,000
+				Balance Sheet
+
+
+
+
+
+
+

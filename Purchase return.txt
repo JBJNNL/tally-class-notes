@@ -1,0 +1,44 @@
+	             	       Purchase Returns(Debit Note)	
+--------------------------------------------------------------------------------------------------
+1.R.K Trading Purchase following items 	Bill No-121 	Date:-1-4-23
+Party Name:-Mr Mohan(Sundry Creditor)
+Purchase Ledger-->Purchase a/c(Purchase a/c)
+Item Name 		Qty 		Rate		Amount
+LG W.M			20 Pcs		10,000		------
+LG T.V			30 Pcs		13,000		------
+LG Fridge			20 Pcs		14,000		------
+
+Step 1:-Vouchers-->Press F9(Purchase)
+Note:-Agar aapka Ledger/Unit me koi mistake hone par Ledger ko Sahi karne ki Shortcut-->Control+Enter
+
+2.R.K Trading Purchase Returns following item to Mr Mohan
+Item Name 		Qty 		Rate		Amount
+LG W.M			02 Pcs		10,000		------
+LG T.V			01 Pcs		13,000		------
+LG Fridge			05 Pcs		14,000		------
+
+
+Step 2:-Vouchers-->Other Vouchers-->Debit Note(Alt+F5)
+Select Party Name
+Select Purchase Ledgers
+Item Name 		Qty 		Rate		Amount
+LG W.M			02 Pcs		10,000		------
+LG T.V			01 Pcs		13,000		------
+LG Fridge			05 Pcs		14,000		------
+
+
+3.R.K Trading Maintain Cash.10,00,000
+Step 4 :-Maintain Cash:-Alter-->Ledger-->Cash-->
+
+
+4.R.K Trading Paid Pending due bills amount to Mr Mohan with Rs ----- by cash.
+
+Step 5:-Vouchers-->Press F5(Payment)
+Dr.Mr Mohan				7,67,000
+Cr.Cash					--------
+-----------------------------------------------------------------------------------
+TASK:-Purchase Discount :-->Purchase Return
+W.M@2%
+TV@3.5%
+Fridge@2.5%
+

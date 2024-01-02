@@ -1,0 +1,24 @@
+		Post Dated Entery & Blank Cheque,Cancel Cheque.
+-----------------------------------------------------------------------------------
+1.M/s R.R Trading Maintain Bank Balance into SBI Bank 5,00,000.
+Cheque Range:-000001-000050
+
+2.M/s R.R Paid Post Dated Cheque to Mr Neeraj with Rs 1,00,000.
+Cheque Date:-1-4-2023		Cheque No-
+PDC Date:-1-6-2023			PDC Notes:-
+
+Step 2:-Press F5(payment)Controll+T(Post Dated)
+Dr.Mr Neeraj(Indirect Exp.)		1,00,000
+Cr.SBI Bank				1,00,000
+
+3.M/s R.R Paid Blank Cheque to Mr Naveen .
+Step 3:-Banking-->Cheque Register-->Press Space Bar-->Alter Status-->Blank Cheque-->
+Account:-SBI Bank:-
+Particular:-
+Mr Naveen(Indirect Exp.)
+
+4.M/s R.R Made Cancelled Cheque..
+
+Step 4:-Banking-->Cheque Register-->Press Space Bar-->Alter Status-->Cancel Cheque-->
+
+-----------------------------------------------------------------------------------

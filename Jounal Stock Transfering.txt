@@ -1,0 +1,51 @@
+			-:Stock Transfering:-
+--------------------------------------------------------------------------
+1.R.K Trading Create Godam(Shop 1,Shop 2)
+
+Step 1:-Create-->Location(Godowns)-->Shop 1(GGN),Shop 2(NNL)
+
+2.R.K Trading Maintain Following Stock Items
+Item Name	Qty	Godam		Rate		Amount
+CPU		40 Pcs	Shop 1		8,000		-----------
+Printer		50 Pcs	Shop 1		10,000		-----------
+SMPS		10 Pcs	Shop 1		500		-----------
+
+Step 2:-Create-->Stock Items-->Given Above:-
+
+3.R.K Trading Transfering Following Items Shop 1 to Shop 2 and Tranportation Charge@250/Item.
+
+			Source
+Item Name	Qty	Godam		Rate		Amount
+CPU		20 Pcs	Shop 1		8,000		-----------
+Printer		30 Pcs	Shop 1		10,000		-----------
+SMPS		5 Pcs	Shop 1		500		-----------
+
+			Destination
+
+Item Name	Qty	Godam		Rate		Amount
+CPU		20 Pcs	Shop 2		8,000		-----------
+Printer		30 Pcs	Shop 2		10,000		-----------
+SMPS		5 Pcs	Shop 2		500		-----------
+
+
+
+Step 3:-Alter-->Voucher type-->Stock Jounal-->Track Additional Cost for Purchase-->Yes 
+Vouchers-->Other Vouchers-->Stock Journal(Alt+F7)
+			Source
+Item Name	Qty	Godam		Rate		Amount
+CPU		20 Pcs	Shop 1		8,000		-----------
+Printer		30 Pcs	Shop 1		10,000		-----------
+SMPS		5 Pcs	Shop 1		500		-----------
+
+			Destination
+
+Item Name	Qty	Godam		Rate		Amount
+CPU		20 Pcs	Shop 2		8,000		-----------
+Printer		30 Pcs	Shop 2		10,000		-----------
+SMPS		5 Pcs	Shop 2		500		-----------
+
+
+Transportation charge@250(Direct Expenses) 
+-----------------------------------------------------------------------------------------
+
+

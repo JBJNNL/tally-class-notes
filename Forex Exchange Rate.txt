@@ -1,0 +1,42 @@
+  			-: Multi Currency :-
+-----------------------------------------------------------------------------------------
+1.M/s Ram Trading Purchase Following items from Yontra Ltd (USA)
+Bill No-423				Bill Date:-1-4-23
+Item Name	Qyt	Rate	Rate of exchange		Amt
+LED		40 Pcs	$500		80/$		-----
+Printer		20 Pcs	$450		80/$		-----
+
+
+2.M/s Ram Trading Paid Pending Due Bill Amount to Yontra Ltd  1-5-23
+Rate of Exchange:- 76/$
+
+3. M/s Ram Trading Adjustment Forex Gain/loss with Rs 1,16,000 .
+
+----------------------------------------------------------------------------------------
+
+Step 1:-Create-->Show More-->Show Inactive-->Rates of Exchange-->Activate
+$ USD
+
+Step 2:-Vouchers-->Press F9(Purchase)	Bill No-121
+Party Name:-Yontra Ltd(S.C)-USA Country
+Purchase Ledger-->Purchase Forex(P.A)
+Item Name	Qyt	Rate	Rate of exchange			Amt
+LED		40 Pcs	$500		80/$			-----
+Printer		20 Pcs	$450		80/$			-----
+
+
+Step 3:-Create-->Ledgers-->SBI Bank(Bank A/c)--->50,00,000
+ 	
+Step 4:->Vouchers-->Press F5(Payment)
+Dr.Yontra Ltd				$29,000-->
+Cr.SBI bank				---------
+
+Step 5:-Vouchers-->Adjustment Forex Gain-->Press F7(Journal)
+Dr.Party Name				1,16,000 (On Account)
+Cr.Forex Gain(Indirect Income)		1,16,000
+
+Note:-Party name Balance On Account
+--------------------------------------------------------------------
+Task:-
+Sales Canada:-
+Forex Loss:-

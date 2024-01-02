@@ -1,0 +1,48 @@
+		                   ||Set Credit Limit||
+
+----------------------------------------------------------------------------------------------
+1.M/s R.R Introduce capital with amount of Rs 5,00,000 by cash.
+
+2.M/s R.R Maintain Following Stock Items
+Item			Quantity		Rate		Amount
+Computer		40/Pcs		18000		----------
+Printer			20/Pcs		8000		----------
+DVD			5/Pcs		5000		----------
+
+
+3.M/s R.R Sales following Items to Mr Naveen(Limit:-5,00,000)
+Item		Quantity		Rate	Amount
+Computer	20/Pcs		20,000	-------
+Printer		10/Pcs		10,000	-------
+
+
+
+4. M/s R.R Received Pending Due bill amount from Mr Naveen With Rs 5,00,000 by cash
+------------------------------------------------
+Step 1:-Vouchers-->Press F6(Receipt)
+Cr.R.R Capital(Capital a/c)			5,00,000
+Dr.Cash						5,00,000
+
+Step 2:--Create-->Stock Items-->
+
+Item			Quantity		Rate		Amount
+Computer		40/Pcs		18000		----------
+Printer			20/Pcs		8000		----------
+DVD			5/Pcs		5000		----------
+
+
+Step 3:-Press F8(Sale)
+Party Name:-Mr.Naveen(Sundry.Debtor)-->More Detials-->Credit  Limit-->5,00,000
+S.L:-Sales a/c(Sales Account)
+
+Item		Quantity		Rate	Amount
+Computer	20/Pcs		20,000	-------
+Printer		10/Pcs		10,000	-------
+
+Step 4:-Vouchers-->Press F6(Receipt
+Cr.Mr Naveen			----------
+Dr.Cash				-----------
+
+
+Task
+Purchase 

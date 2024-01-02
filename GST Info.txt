@@ -1,0 +1,25 @@
+GST-Good & Service Tax:-
+
+GSTIN:-06ASUPK0785C1ZK
+
+06(State Code)ASUPK0785C(PAN CARD NO)1(Number of Company)Z(Fixed)K(Variable)
+
+Regular Dealer:-20/40 Lac Above <75 Lac.
+Composition Dealer:-
+
+GST SLAB RATE
+0%,5%,12%,18%,28%
+
+Categories:-
+
+		SGST/UTGST		CGST		IGST
+
+
+Sales 50K Above:-E-Way Bill
+
+
+Regular
+R1
+R2
+3B
+------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,49 @@
+ 		    Purchase With Payment/Sale by Cash
+
+1.R.R Ltd Purchase Following Items :-	1-4-2023	Invoice No-121
+Party Name:-Mr Deepak(Narnaul HR)
+Purchase Ledgers:-Purchase A/c
+Item Name	Qty		Rate			Amount
+Computer	20 Pcs		10,000			----------
+Printer		10 Pcs		08,000			----------
+Total							2,80,000
+
+
+Step 1:-Vouchers-->Press F9(Purchase)-Click
+Party Name:-Mr Deepak(Sundry Creditor)
+Purchase Ledgers:-Purchase A/c(Purchase Account)
+Item Name	Qty		Rate			Amount
+Computer	20 Pcs		10,000			----------
+Printer		10 Pcs		08,000			----------
+Total							2,80,000
+
+Balance Sheet Details show-->Alt+F1
+Note:-Koi bhi khaata/Ledger/Unit/Item banane ki shortcut key--->Alt+C
+Note:-Agar apka item banane ki list show na kare to aapko (Spacebaar) press Karna
+
+2.R.R Ltd Cash Maintain:-5,00,000
+
+Step 2:-Alter-->Ledger-->Cash-->5,00,000
+
+3.R.R Ltd Paid Pending bills amount to Mr Deepak with Rs 2,80,000 by Cash.
+
+Step 3:-Goto Vouchers-->Press F5(Payment)	
+Dr.Mr Deepak				2,80,000
+Cr.Cash					2,80,000
+
+4.R.R Ltd Sales Following Items by Cash.
+Item Name	Qty		Rate			Amount
+Computer	15 Pcs		13,000			-----------
+Printer		08 Pcs		11,000			-----------
+
+
+Step 4:-Goto Vouchers-->Press F8(Sale)
+Party Name:-Cash
+Sales Ledgers:-Sales a/c(Sales A/c)
+Item Name	Qty		Rate			Amount
+Computer	15 Pcs		13,000			-----------
+Printer		08 Pcs		11,000			-----------
+
+
+
+----------------------------------------------------------------------------------------------s--------------------------------------------------------------	

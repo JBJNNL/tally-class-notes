@@ -1,0 +1,39 @@
+		Sales Discount:-
+-----------------------------------------------------------------------------------------------------------------------------------------------
+1.M/s R.K Trading Maintain following stock items:-
+Item Name		Qty		Rate		Amount
+Cooler			20 Pcs		6,000		------
+AC			05 Pcs		15,000		------
+FAN			10 Pcs		1,500		------
+
+Step 1:Goto Inventory info-->Stock items-->Create-->
+Item Name		Qty		Rate		Amount
+Cooler			20 Pcs		6,000		------
+AC			05 Pcs		15,000		------
+FAN			10 Pcs		1,500		------
+
+2.M/s R.K Trading Sales following Items 
+Party Name:-Mr Neeraj	
+Sales Ledgers-->Sales a/c
+Item Name		Qty		Rate		Amount
+Cooler			10 Pcs		7,000		------
+AC			03 Pcs		18,000		------
+FAN			05 Pcs		1,800		------
+Total							------
+Discount Allow				-7.5%		------
+
+Step 2:-G.A.V-->Press F8(Sale)
+Party Name:-Mr Neeraj(Sundry Debtors)	
+Sales Ledgers-->Sales a/c(Sales a/c)
+Item Name		Qty		Rate		Amount
+Cooler			10 Pcs		7,000		------
+AC			03 Pcs		18,000		------
+FAN			05 Pcs		1,800		------
+Total							------
+Discount Allow(Indirect Expenses)	-7.5%		------
+
+3.M/s R.K Trading Received Pending bill amount from Mr Neeraj with Rs --------by Cash.
+Step 3:-G.A.V--Press F6(Receitp)
+Dr.Cash				------
+Cr.Mr Neeraj			------
+----------------------------------------------------------------------

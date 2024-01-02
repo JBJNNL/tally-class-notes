@@ -1,0 +1,43 @@
+E-Way Bill:-
+50K above Bill Generate/Create:
+GSTIN:-08ESDPK9602R1Z0
+E-way Bill Applicable-->Yes
+-------------------------------------------------------------------------------------------------------------------------------------
+1.M/s KCM Ltd Manufactured Following items and Maintain into Stock:-
+Item Name		HSN/SAC		QTY		RATE			AMOUNT
+Thresher machine		8433		 5pcs		1,75,000			-------
+GST@12%
+
+Step 1:-Create-->Stock Items -->Given Above
+
+2.M/s KCM Ltd Sales Following items by Cash(Mr Pratap Sing Haryana)
+Party Name :Cash
+Sales Ledgers:-Sales A/c(Sales A/c)
+Item Name		HSN/SAC		QTY		RATE			AMOUNT
+Thresher machine		8433		1 Pcs		1,85,000			-------
+Total										-------
+IGST@12%									-------
+
+E-Way Bill Details:-
+Bill No-1				Bill Date:-
+E-Way Bill No-771235130306		Date:-
+Mode:-By Road			Vehicle No-HR82A1637
+
+Step 2:-Press F8(Sale)
+Party Name :Cash(URP)
+Sales Ledgers:-Sales A/c(Sales A/c)N.O.T-->Interstate Sales Taxable:-
+Item Name		HSN/SAC		QTY		RATE			AMOUNT
+thresher machine		8433		1 Pcs		1,85,000			-------
+Total										-------
+IGST@12%									-------
+E-Way Bill Details:-
+Bill No-				Bill Date:-
+E-Way Bill No-			Date:-
+Mode:-By Road			Vehicle No-HR82A1637
+
+
+Step 3:-Maintain SBI Bank(Bank A/c)----->50,000
+
+
+Step 4:-Vouchers-->Press F5(Payment)-->Autofill
+----------------------------------------------------------------------------------

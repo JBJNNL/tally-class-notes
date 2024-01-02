@@ -1,0 +1,40 @@
+ 			Loan Received With Interest Paid
+-----------------------------------------------------------------------------------------
+1.M.R Ltd Received loan from HDFC Bank with Rs 5,00,000 by Cash.
+		Interest Rate:-6.75% P.A(365 Day/Year) Home Loan
+		Received Date:-01-04-23
+
+Step 1-->Enable Interest Calculations-->Yes
+
+Step 2:-Vouchers-->Press F6(Receipt)
+Cr.HDFC Bank Loan a/c(Secured Loan)			5,00,000
+Dr.Cash						-------------
+
+Note-->Jab aap HDFC Bank loan ka ledgers create karoge tab aapko activate interest calculations ko Yes karna hai.
+Note-->Jab aapk koi khate me kuch mistake kar dete ho usko sahi karne ki shortcut key:-Cont+Enter
+
+2.M.R Ltd Paid interest 1 month to HDFC Bank with Rs --------- by Cash.
+
+Step 3:-Goto Display--->Statement of Accounts-->Interest Calculations-->Interest payable-->Press F2(Period)
+
+Step 4:-Vouchers-->Press F5(Payment)
+Dr.Interest paid(Indirect exp.)		2,773.97
+Cr.Cash					------------
+
+3.M.R Ltd Received income(Commission) from Mr Ramesh With Rs 5,00,000 By Cash.
+
+Step 5:-Vouchers-->Press F6(Receipt)
+Cr.Commission(Indirect income)			5,00,000
+Dr.Cash						---------
+
+4.M.R Ltd Paid Loan amount to HDFC bank With Rs ------------ with interest.1-7-223
+
+Step 6:-Vouchers-->Press F7(Journal)
+Dr.interest paid				5,732.88
+Cr.HDFC Bank loan a.c			-----------
+
+Step 7:-Vouchers-->Press F5(Payment)
+Dr.HDFC Bank loan a/c			-----------
+Cr.Cash					-----------
+
+

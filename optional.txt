@@ -1,0 +1,51 @@
+ 		Optional Voucher/Bill Cancelled 
+
+1.M/s R.K Trading Introduce capital With Amount of rs 5,00,000 by cash.
+
+2.M/s R.K Purchase following Items from M/s R.R
+Item		QTY	Rate		Amount
+Computer	10/Pcs	25,000		---------
+Printer		5/Pcs	10,000		---------
+
+Note:-Evidence(Proof) of the Bill is Not Received from Party.
+
+3.M/s R.K Sale Following Items To Mr Manoj
+Item		QTY	Rate		Amount
+Computer	5/Pcs	28,000		---------
+Printer		2/Pcs	13,000		---------
+
+4.M/s R.K Cancelled Bill for Rate Issue Bill 1.
+
+5.M/s R.K Received bill following Items from M/s R.R
+Item		QTY	Rate		Amount
+Computer	10/Pcs	25,000		---------
+Printer		5/Pcs	10,000		---------
+
+--------------------------------------------------------------------------------------------------------
+
+
+Step 1:-Vouchers-->Press F6(Receipt)
+Cr.R.K Capital(Capital Account)			5,00,000
+Dr.Cash						5,00,000
+
+Step 2:-Vouchers-->Press F9(Purchase)-->Press Control+L(Optional)
+Party name:-R.R(Sundry Creditors)
+Purchase Ledgers:-Purchase Account(Purchase.Account)
+Item		QTY	Rate		Amount
+Computer	10/Pcs	25,000		---------
+Printer		5/Pcs	10,000		---------
+
+Step 4:-Goto Display-->Exception Report-->Optional Voucher-->
+
+Step 5:-Press Goto Display -->Day Book -->Choose Purchase Bill (R.R)Press Control+L(Regular)-->Accept:-Control+A Bill N0-121
+
+Step 6:-Press F8(Sale)
+Party Name:-Manoj(Sundry Debtors)
+Sales.Aaccount(Sales.Account)
+
+Item		QTY	Rate		Amount
+Computer	5/Pcs	28,000		---------
+Printer		2/Pcs	13,000		---------
+
+Step 7:-Goto Dispaly -->Day Book-->Choose Sale Bill No-->Press Alt+X(Cancelled )
+-----------------------------------------------------------------------------------------

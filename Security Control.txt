@@ -1,0 +1,24 @@
+			Security Control:-
+-----------------------------------------------------------------------------------
+1.R.R Trading Maintain Following Tally Users:-
+	1.Mr Ram		User Id	ram		Password-ramnn@12
+	2.Mr Deepak		User Id	deepak		Password-deepa@13
+
+	Controller:-Admin:-
+
+2.R.R Trading Given Tally operator works for Day 1:-Mr Ram
+
+R.R Trading Purchase following items from Mr Dinesh
+Item Name		Qty		Rate		Amount
+Cooler			20 Pcs		10,000		-------
+Fridge			10 Pcs		15,000		-------
+
+3.R.R Trading Given Tally operator works for Day 1:-Mr Deepak
+
+R.R Trading Sales following items by Cash
+Item Name		Qty		Rate		Amount
+Cooler			10 Pcs		13,000		-------
+Fridge			05 Pcs		18,000		-------
+
+
+4.R.R Admin Audit all day entries:-

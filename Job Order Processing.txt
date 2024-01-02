@@ -1,0 +1,112 @@
+			 -: Job Order Processing:-
+---------------------------------------------------------------------------------------------------------------
+1. M/s Ram trading Received Purchase Order from M/s R.K Trading
+Order No-12345.	Order Date:-1-4-2023		Due Date:-1-6-2023
+Item Name		Qty			Rate		Amount
+LED 			15 Pcs			10,000		------
+
+Shop 2
+
+Step 1:-Enable Job Order Processing:-Yes
+
+Step 2:-Create--->Locations-->Shop 1,Shop 2:-
+
+Step 3:-Vouchers-->Others Voucher--->Show inactive-->Sales Order-->
+Party Name:-M/s R.K Trading(S.D)
+Sales Ledgers-->Sale a/c(S.A)
+Order No-12345.	Order Date:-1-4-2023		Due Date:-1-6-2023
+Item Name		Qty			Rate		Amount
+LED 			15 Pcs			10,000		------
+
+Note:-Maintain 1,00,000 Cash
+Alter-->Ledgers->Cash
+
+2.M/s Ram trading Purchase Raw Material for Manufacturing LED:-
+Party Name:-Cash
+Item Name		Qty			Rate		Amount
+Panel			15			1000		-------
+Tube			15 			1500		-------
+Board			15			1500		-------
+Back Light		15			300		-------
+
+Shop 1
+
+Step 4:-Press F9(Purchase)
+Party Name:-Cash:-
+Purchase Ledger:-Purchase a/c(P.A)
+Item Name		Qty			Rate		Amount
+Panel			15			1000		-------
+Tube			15 			1500		-------
+Board			15			1500		-------
+Back Light		15			300		-------
+
+
+3.M/s Ram Trading Job Work Order Out to M/s Manoj
+Order No-12345.	Order Date:-2-4-2023		Due Date:-1-5-2023
+Item Name		Qty			Rate		Amount
+LED 			15 Pcs			10,000		------
+
+Step 5:-Vouchers-->Other Voucher-->Job Work Out Order-->
+Party Name:-M/s Manoj(S.C)
+Order No-12345.	Order Date:-2-4-2022 	Due Date:-1-5-2022
+Item Name		Qty			Rate		Amount
+LED 			15 Pcs			10,000		------
+Out order for Shop 2 Location
+
+Component List:-
+Item Name		Qty			Rate		Amount
+Panel			15			1000		-------
+Tube			15 			1500		-------
+Board			15			1500		-------
+Back Light		15			300		-------
+Note:-All Items Pending to Issue:-
+
+
+4.M/s Ram Trading Material Out to M/s Manoj
+Item Name		Qty			Rate		Amount
+Panel			15			1000		-------
+Tube			15 			1500		-------
+Board			15			1500		-------
+Back Light		15			300		-------
+
+Shop 2
+
+Step 6:-Alter-->Show More-->Show Inactive-->Material In:-
+Use for Job Works-->Yes
+Allow Consumption-->Yes
+Step 6:-Alter-->Show More-->Show Inactive-->Material Out:-
+Use for Job Work-->Yes
+
+
+Step 7:-Vouchers-->Other Vouchers-->Material Out-->
+Party Name:-M/s Manoj
+
+Item Name		Qty			Rate		Amount
+Panel			15			1000		-------
+Tube			15 			1500		-------
+Board			15			1500		-------
+Back Light		15			300		-------
+
+Shop 2
+
+
+5.M/s Ram Trading Material in from M/s Manoj
+Item Name		Qty			Rate		Amount
+LED 			15 Pcs			10,000		----------
+
+Step 8:-Vouchers-->Other Vouchers-->Material in-->
+Party  Name:-M/s Manoj
+
+Item Name		Qty			Rate		Amount
+LED 			15 Pcs			10,000		-----------
+Consumption Shop 1
+
+Step 9:-Sale to R.K Trading
+
+Step 10:-Receipt From R.K Trading.
+
+Step 11:-Payment to Mr Manoj (JOB Work)
+Dr.Job work(Direct Exp)			10,000
+Cr. Cash				10,000
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+			

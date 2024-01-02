@@ -1,0 +1,67 @@
+1.M/s R.M 	Sales Order -5,00,000(LED)06ASUPK0785C1ZK
+
+2.M/s R.M 	Advance Received-2,00,000	Taxable Value+GST
+
+3.M/s R.M 	Sales Pending Order and Ajustment Advance Receipt-3,00,000+GST
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+Step 1:-Press F11-->F3-->Enable GST-->Yes.
+
+Set/alter GST Details-->Yes.
+
+Enable Tax Lib. in Advance Receipt-->Yes
+
+Step 2:-Prime:-Vouchers-->Other Vouchers-->Show Inactive-->Sales Order(Activate)
+
+Step 3:-Order Voucher Entry:-->
+Party Name:-Mr Ram(S.D)06IXMPS2124E1ZD		Due Date:-1-5-2023
+Sales a/c(Sales a/c)	
+Item Name					Amount
+LED	 					5,00,000
+GST@18%
+
+
+Step 4:-Vouchers-->Press F6(Receipt)Prime Alt+J(Stat Adjustment)
+Press F12-->Single-->Yes
+Use Dr/Cr-->No
+Account :-Cash
+Particular
+Mr Ram
+Item Name-->LED
+Advance:-2,00,000	1,69,491.52 Taxable Value SGST-15,254.24 CGST-15,254,24
+
+
+Step 5:-Goto Display-->GST Reports-->3B-->Amount Adjustment-->Alt+J
+Nature of Adjustment-->On account on Advance Receipt.
+
+Cr.SGST	-15254.24		
+Cr.CGST-15254.24
+Dr.Tax on Advance(C.L):-30,508.48
+
+Note:-Paid Tax for April Month on Advance Receipt:-
+
+Note-->Maintain  SBI Bank Balance-->1,00,000
+
+Note-->Vouchers-->Press F5(Payment)-->Autofill-->Advance payment
+
+Step 6:-Vouchers-->Press F8(Sales):-
+Party Name:-Mr Ram(S.D)				Due Date:-1-5-2023
+Sales a/c(Sales a/c)	
+Item Name					Amount
+LED						5,00,000
+GST@18%
+
+Step 7:-Press F6(Receipt)
+Cr.Mr Ram 					3,90,000				
+Dr.Cash						-----------
+
+Step 8:-Press F7(Journal)Press Alt+J--->Decrease tax liabilites -->
+Cr.Tax On advance
+Dr.SGST
+Dr.CGST
+
+
+Step 9:-Press F5(payment)Autofill
+Dr.SGST
+Dr.CGST
+Cr.SBI Bank

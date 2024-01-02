@@ -1,0 +1,55 @@
+  			-:Deemed Export :-
+GSTIN-06ASUPK0785C1ZK
+--------------------------------------------------------------------------
+1.M/s R.K Trading Maintain Bank Balance:-5,00,000.
+Note:-Create SBI Bank Ledgers:-
+
+2.M/s R.K Trading Manufacturing Following items and maitain into Stock:-
+Item Name	HSN/SAC		Qty		Rate		Amount
+PIN Block	9466		50 Pcs		3,000		------
+Angular Block	9987		30 Pcs		4,000		------
+
+GST@0.1%
+
+Step 1:-Create-->Stock Items-->Given Above:-
+
+3.M/s R.K Trading Export Items 
+Party Name:-KK Enterprises(USA)
+Sales Ledgers:-Export Deemed Sales A/c
+Item Name	HSN/SAC		Qty		Rate		Amount
+PIN Block	9466		50 Pcs		3,000		------
+Angular Block	9987		30 Pcs		4,000		------
+
+IGST@0.1%
+
+Step 2:-Press F8(Sale)
+Party Name:-KK Enterprises(S.D)
+Sales Ledgers:-Export Deemed Sales A/c(Sales A/c)N.O.T-->Deemed Export Taxable
+Item Name	HSN/SAC		Qty		Rate		Amount
+PIN Block	9466		50 Pcs		5,000		------
+Angular Block	9987		30 Pcs		7,000		------
+
+IGST@0.1%
+
+
+
+4.M/s R.K Trading Adjustment Tax 
+
+Step 5:-Vouchers--->Press F7(Journal)
+Dr.Deemed Export Tax(C.A)		460
+Cr.KK Enterprises			460
+
+
+5.M/s R.K Trading Export Items 
+Party Name:-RR Enterprises(USA)
+Sales Ledgers:-Export Deemed Sales A/c
+Item Name	HSN/SAC		Qty		Rate		Amount
+Amul Milk	-------		20 Pkt		45		--------
+
+Step 5:-Press F8(Sale)
+Party Name:-RR Enterprises(S.D)
+Sales Ledgers:-Export Deemed Sales A/c(Sales A/c)N.O.T-->Deemed Export Exampted
+Item Name	HSN/SAC		Qty		Rate		Amount
+Amul Milk	-------		20 Pkt		45		--------
+
+--------------------------------------------------------------------------

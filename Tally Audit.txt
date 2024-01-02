@@ -1,0 +1,67 @@
+1.M/s Ram Trading Maintain Following Tally Opertors:-
+
+	Name		User Name		Password
+	1.Ramesh		ramesh			ramesh@1234
+	2.Deepak		deepak			deepak@1234
+	3.Admin		Admin			admin@123
+
+2.M/s Ram Trading Purchase Following Items:-
+	Operator:-Ramesh
+Party Name:-Mr Mohan
+Item Name		Qty		Rate			Amount
+TV			10 Pcs		10,000			-------
+CPU			30 Pcs		10,000			-------
+LED			20 Pcs		13,000			-------
+
+
+3.M/s Ram Trading Sales Following Items:-
+	Operator:-Deepak
+Party Name:-Mr Ramesh
+Item Name		Qty		Rate			Amount
+TV			05 Pcs		13,000			-------
+CPU			10 Pcs		14,000			-------
+LED			10 Pcs		16,000			-------
+
+
+-----------------------------------------------------------------------------------------
+
+Step 1:-Goto Company--->Security -->Admin create:-Enable tally Audit featurs-->Yes
+
+
+Step 2:-Company-->User Management-->
+
+1.Password Policy:-Activate Password Policy-->Yes
+Minimum Password lenth-->10
+	
+2.User Roles:-
+Allow:-	Accounting Vouchers-->Full Access:-
+	Accounting Master-->Same
+	Inventory Vouchers-->Same
+	Inventory Maseter-->Same
+ 
+
+3.Create Users and Passwords-->
+
+	Name		User Name		Password
+	1.Ramesh		ramesh			ramesh@1234
+	2.Deepak		deepak			deepak@1234
+
+Step 3:-Voucher-->Press F9(Purchase)
+Party Name:-Mr Mohan(S.C)
+Purchase A.c(Purchase Account)
+Item Name		Qty		Rate			Amount
+TV			10 pcs		10,000			-------
+CPU			30 Pcs		10,000			-------
+LED			20 Pcs		13,000			-------
+
+
+Step 4:-Voucher-->Press F8(Sale)
+Party Name:-Mr Ramesh(S.D)
+Sales A/c(Sales Account)
+Item Name		Qty		Rate			Amount
+TV			05 Pcs		13,000			-------
+CPU			10 Pcs		14,000			-------
+LED			10 Pcs		16,000			-------
+
+
+Step 5:-Tally Audit:-Goto display-->Statement of accounts-->Tally Audit-->User-->

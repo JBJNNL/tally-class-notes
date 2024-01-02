@@ -1,0 +1,56 @@
+Vouchers-->
+
+Contra:-Press F4:-
+Cash to Cash
+Cash to Bank
+Bank to Cash
+Bank to Bank
+
+Example:-
+1.M/s Ram trading Open an account into SBI Bank With Rs 10,000 by Cash.
+Dr.SBI Bank		10,000
+Cr.Cash				10,000
+
+
+2.M/s Ram Trading Transfering Balance SBI Bank to ICICI Bank with Rs 5,000.
+Dr.ICICI Bank		5,000
+Cr.SBI Bank			5,000
+
+3.M/s Ram Trading Transfer Cash into Petty Cash with Rs 8,000.
+Dr.Petty Cash		8,000
+Cr.Cash				8,000
+
+Payment Voucher:-Press F5:-All Payment Related Entries Maintain into Payment Voucher:-
+Salary Paid,Electricity,Interest Paid,Rent Paid.
+Udhar Kharid ki payment bhi Yahi se hogi. 
+
+1.M/s Ram Trading Paid Rent(Office) with Rs 10,000 by Cash.
+Dr.Rent(Office)			10,000
+Cr.Cash					10,000
+
+
+
+Receipt Voucher :-Press F6:-All Type Incomes related Entries Maintain into Receipt Voucher:-
+
+Rent Received,Interest Received,Commission Rec.,Salary Rec.
+Udhar me Bikri ki Income bhi yahi se Received hogi
+
+1.M/s Ram Trading Received Commission from Mr Deepak With Rs 50,000 by Cheque(SBI Bank) Chk No-332345
+
+Dr.SBI Bank			50,000
+Cr.Commission Rec.			50,000
+
+
+Journal Voucher Press F7:-All Ajustment Entries Maintain into Journal Voucher:
+
+Persal Use ke liye udhar me Kharidi/Bechi Assests,Goods
+Adjustment :-Interest Adjustment 
+
+1.M/s Ram Trading Purchase Splender Bike with Rs 70,000 from R.R Mototers.
+
+Dr.Splender Bike			70,000
+Cr.R.R Mototers					70,000
+
+Sales Voucher:-Press F8:-All sales invoices Entries Maintain into Sales Voucher:
+
+ 

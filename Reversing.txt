@@ -1,0 +1,63 @@
+		Reversing Journal With Provision:-
+-----------------------------------------------------------------------------------------
+1.M/s Neeraj introduce capital with amount of Rs 5,00,000 by cash.
+
+2.M/s Neeraj Show 1-4-2023 months expenses.
+1.Rent 				15,000
+2.Salary				25,000
+3.Water Exp.			500
+
+3.M/s Neeraj Show CA Fees Of Month 1-4-2023 with amount of rs 25,000.
+
+
+5.M/s Neeraj Paid Expenses of month 1-5-2023
+1.Rent 				15,000
+2.Salary				25,000
+3.Water Exp.			500
+
+6.M/s Neeraj Paid CA Fees of month 1-5-2023 with amount of rs 25,000 by cash
+-------------------------------------------------------------------------------------
+Step:-Vouchers-->Press F6(Receipt)
+Cr.Capital A/c(Capital a/c)		5,00,000
+Dr.Cash					5,00,000
+
+Step 1:-
+Prime:-Vouchers-->Others vouchers-->Show inactive-->Activate(Reversing Journal)
+
+Dr.Rent(Indirect Exp)		15,000
+Dr.Salary(Indirect Exp)		25,000
+Dr.Water Exp(Indirect Exp..		500
+Cr.Cash				40,500
+
+
+Step 2:-Vouchers-->Others vouchers-->Show inactive-->Activate(Reversing Journal)
+
+Dr.CA Fees(Indirect Exp)			25,000
+Cr.Cash					25,000
+
+
+Step 4:-Prime:-Create-->Show More-->Show inactive-->Activate(Scenario)
+Name:-Provision-->
+Include:-Reversing Journal:-
+
+Exclude:-Payment:-
+
+Prime :-Scenario-->	
+
+Step 5:-Show Last Month Expenses:-Goto Balance Sheet:--Press Alt +C(New Column)
+From :-Date:-
+Choose Provision:-
+Show Variance:-Yes.
+
+Step 6:-Press F5(Payment)Date:-1-5-2023.
+Dr.Rent 			15,000
+Dr.Salary			25,000
+Dr.Water Bill			500
+Cr.Cash				40,500
+
+Step 7:-Press F5(Payment) 1-5-2023
+Dr.CA Fees			25,000
+Cr.Cash				25,000
+
+
+ 

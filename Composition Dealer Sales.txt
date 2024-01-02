@@ -1,0 +1,37 @@
+Composition to Regular & Composition Dealer:-
+M/s Ram Trading GSTIN:-06ASUPK0785C1ZK
+-----------------------------------------------------------------------------------------------------------
+1.M/s Ram trading Maintain Following items into stock:-
+Item Name	HSN/SAC		QTY		RATE		AMOUNT
+LED		8542		10 Pcs		10,000		-------
+Alumunium Redder8263		20 Pcs		2,000		-------
+
+Step 1:-Create-->Stock Items-->Given Above:-
+
+2.M/s Ram Trading Sales Following Items 
+Party Name:-Mr Ramesh(Composition Dealer):-GSTIN:-06ADCPH5412J1ZV
+Item Name	HSN/SAC		QTY		RATE		AMOUNT
+LED		8542		10 Pcs		13,000		-------
+Alumunium Redder8263		20 Pcs		2,500		-------
+
+	
+	
+Composition Dealer Not eligible for tax collet 
+
+Step 2:-Vouchers-->Press F8(Sale)
+Party Name:-Mr Ramesh(S.D)(Composition Dealer):-GSTIN:-06ADCPH5412J1ZV
+Sales Ledgers-->Sales A/c(Sales A/c)
+Item Name	HSN/SAC		QTY		RATE		AMOUNT
+LED		8542		10 Pcs		13,000		-------
+Alumunium Redder8263		20 Pcs		2,500		-------
+
+Composition Dealer Not eligible for tax collet
+ 
+Step 3:-Maintain SBI Bank Balance Rs 10,000
+
+3.M/s Ram Trading Paid Tax by SBI Bank
+Step 4:-Vouchers-->Press F5(Payment)Autofill
+Dr.SGST
+Dr.CGST
+Cr.SBI Bank
+-----------------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+1.Ram Trading Start Business Rs 5,00,000 by Cash
+
+Dr.Cash				5,00,000
+Cr.Ram Trading Capital			5,00,000
+
+
+2.Ram Trading Purchase computers for office use with Rs 5,00,000 by Cash.
+
+Dr.Computer			5,00,000
+Cr.Cash					5,00,000
+
+3.Ram Trading Sale computers  with Rs 6,00,000 by Cash.
+Dr.Cash				6,00,000
+Cr.Computer				6,00,000
+
+4.Ram Trading paid Salary to staff with Rs 35,000 by Cash.
+Dr.Staff Salary			35,000
+Cr.Cash					35,000
+
+5.Ram Trading Received Rent with Rs 30,000 by Cash.
+Dr.Cash			30,000
+Cr.Rent 			30,000
+
+
+6.Ram Trading Open Account into SBI Bank with Rs 10,000 by Cash.
+Dr.SBI Bank
+Cr.Cash
+
+7.Ram Trading Received Loan From HDFC Bank with Rs 2,00,000 by Cash.
+Dr.Cash			2,00,000
+Cr.HDFC Bank			2,00,000
+
+8.Ram Trading Purchase Chairs from Super Bazarwith Rs 5,000 paid by Phone Pe.
+Dr.Chairs			5,000
+Cr.Phone pe(SBI Bank)			5,000
+
+
+
+
+
+
+
+

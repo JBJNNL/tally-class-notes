@@ -1,0 +1,62 @@
+			Sales Returns(Credit Note) With GST
+GSTIN:-06ASUPK0785C1ZK
+-----------------------------------------------------------------------------------------
+1.R.R Taxtile Maintain Following Stock Items
+Item Name	HSN/SAC		Qty		Rate		Amount
+Pillow		9404		30 Pcs		250		-------
+Blanket		6301		50 Pcs		1000		-------
+Curtains		6303		40 Pcs		200		-------
+
+
+Step 1:-Create-->Stock items-->>Given Above
+All Item Under 18% GST
+
+2.R.R Taxtile Sales following items 
+Party Name :-R.K Garments:-
+Item Name		Qty		Rate		Amount
+Pillow			10 Pcs		350		-------
+Blanket			30 Pcs		1500		-------
+Curtains			20 Pcs		300		-------
+
+Step 3:-Voucher-->Press F8(Sale)
+Party Name:-R.K Garments(Sundry Debtors)GSTIN:-06IXMPS2124E1ZD
+Sales Ledgers-->Sales A/c(Sales a/c)
+Item Name		Qty		Rate		Amount
+Pillow			10 Pcs		350		-------
+Blanket			30 Pcs		1500		-------
+Curtains			20 Pcs		300		-------
+Total 							-------
+SGST@9%						-------
+CGST@9%						------
+Direct Bill Accept =Control+A
+3.R.R Taxtile received Sales returns from R.K Garments:-
+Item Name		Qty		Rate		Amount
+Pillow			05 Pcs		350		-------
+Blanket			03 Pcs		1500		-------
+
+Step 4:-Vouchers-->Other Voucher-->Press Alt+F6(Credit Note)
+Select Party Name:-
+Select Sales a/c
+Item Name		Qty		Rate		Amount
+Pillow			05 Pcs		350		-------
+Blanket			03 Pcs		1500		-------
+
+Total 							-------
+SGST@9%						-------
+CGST@9%						------
+
+4.R.R Taxtile Received Pending due bills amount from R.K Garments With Rs ----------- by Cheque.
+
+Step 5:-Vouchers-->Press F6(Receipt)
+Cr.R.K Garments			-----------
+Dr.Cash				-----------
+
+Step 6:-Vouchers--->Press F4(Contra)
+Cr.Cash					20000
+Dr.SBI Bank(Bank Account)		20000
+5.R.R Taxtile  paid Tax:-8,685.
+
+	
+---------------------------------------------------------------------------------------------------------------
+
+

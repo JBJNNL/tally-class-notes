@@ -1,0 +1,69 @@
+		Udhar wali Entry(Personal Use) & Share Capital
+-------------------------------------------------------------------------------------------------------------------------------------
+1.M/s R.K Trading Maintain Share Capital 
+Mr Ramesh  :-5,00,000.
+Mr Deepak  :-4,00,000.
+Mr Neeraj    :-2,50,000. 1 July
+
+Step 1:-Vouchers-->Press F6(Receipt)
+Dr.Cash				11,50,000
+Cr.Mr Ramesh  :-5,00,000.
+Cr.Mr Deepak  :-4,00,000.
+Cr.Mr Neeraj    :-2,50,000
+
+Note:-Ledgers Create Shortcut alt+C
+
+2.M/s R.K Trading purchase Furniture from R.R Furnitures Shop With Rs 1,00,000. 2-July
+
+Step :-Vouchers-->Press F7(Journal)
+Dr.Furniture A/c(Fixed Assests)			1,00,000
+Cr.R.R Furniture Shop(Sundry Creditors)		1,00,000 
+
+3.M/s R.K Trading Purchase computer from Grav Computers with Rs 15,000 
+1 Augst:-
+
+Step :Vouchers-->Press F7(Journal)
+Dr.Computer A/c(Fixed Assests)		15,000
+Cr.Grav Computers(Sundry Creditors)		15,000
+ 
+4.M/s R.K Trading Deposite Cash into SBI Bank with Rs 25,000.2 Augst:-
+
+Step :-Vouchers-->Press F4(Contra)
+Dr.SBI Bank(Bank A/c)		25,000
+Cr.Cash				25,000
+
+5.M/s R.K Trading Paid Pending amount to R.R Furniture Shop with Rs 1,00,000 by Cash. 2 Augst
+
+Step :-Vouchers-->Press F5(Payment)
+Dr.R.R Furnitures Shop			1,00,000
+Cr.Cash					1,00,000
+
+6.M/s R.K Trading Paid Pending amount to Grav Computers with Rs 15,000 by SBI Bank 2 Augst.
+
+Step :-G.A.V-->Press F5(Payment)
+Dr.Grav Computers			15,000
+Cr.SBI Bank					15,000
+
+7:-M/s R.K Trading Maintain Petty Cash with Rs 10,000 .
+
+Step:-Vouchers-->Press F4(Contra)
+Cr.Cash				10,000
+Dr.Petty Cash(Cash in Hand)		10,000
+
+8:-M/s R.K Trading Paid Stationery Expense by Petty Cash.
+1.Markar		1,000
+2.A4 Paper	500
+3.Pens&File	1,000
+
+Step:-Vouchers-->Press F5(Payment)
+Dr.Markar(I.E)		1,000
+Dr.A4 Paper(I.E)		500
+Dr.Pens&File(I.E)		1,000
+Cr.Petty Cash			2,500
+
+9:M/s R.K Trading Transfer 5,000 SBI Bank to HDFC Bank A/c .
+
+Step:-Vouchers-->Press F4(Contra)
+Cr.SBI Bank			5,000
+Dr.HDFC Bank(Bank A/c)		5,000
+-----------------------------------------------------------------------------------------------------------------------------

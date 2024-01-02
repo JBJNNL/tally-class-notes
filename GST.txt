@@ -1,0 +1,44 @@
+		GST on Sale (Intra State Sale)Same State
+ 
+GST Number:-06ASUPK0785C1ZK
+1.M/s Ram Trading Maintain Following Stock items into Stock.
+Item Name	HSN/SAC		QTY	Rate	Amt
+Computer	8542		5/Pcs	20,000	-----
+Printer		8542		10/Pcs	18,000	-----
+Total						-----
+Note:-All Itmes GST@18% 
+
+Step 1:-Create--->Stock Items -->
+
+2.M/s Ram trading Sales Following Items to Mr Ramesh(GSTN-06ADCPH5412J1ZV)
+Item Name	HSN/SAC		QTY	Rate	Amt
+Computer	8542		5/Pcs	25,000	-----
+Printer		8542		10/Pcs	20,000	-----
+Total						-----
+SGST@9%				9%	------
+CGST@9%				9%	------
+
+Step 2:-Vouchers-->Press F8(Sale)
+Party Name:-Mr Ramesh(Sundry Debtor)
+Sales Ledger:-Sales A/c(Sales A/c)-->Is GST Applicable-->Applicable
+Type of Supply-->Goods
+Item Name	HSN/SAC		QTY	Rate	Amt
+Computer	8542		5/Pcs	25,000	-----
+Printer		8542		10/Pcs	20,000	-----
+Total						-----
+SGST@9%				9%	------
+CGST@9%				9%	------
+
+Note:-SGST-CGST-->D.T-->GST-->State Tax(Center Tax)-->
+
+3.M/s Ram Trading Maintain SBI Bank Balance(1,00,000)
+
+Step 3:-Create-->Ledger-->SBI Bank(Bank Account)-->1,00,000
+
+4.M/s Ram Trading Paid GST:-
+
+Step 4:-Voucher-->Press F5(Payment)-->Autofill:-
+Cr.SBI Bank		58,500
+Dr.SGST 		29,250
+Dr.CGST 		29,250
+---------------------------------------------------------------------------------------------------------------------------------------

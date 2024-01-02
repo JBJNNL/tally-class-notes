@@ -1,0 +1,50 @@
+		     :-Physical Stock Verification-:
+-----------------------------------------------------------------------------------------
+1.M/s Ramesh Started a business with amount of Rs 5,00,000 by cash.
+
+2.M/s Ramesh Purchase following items from abc ltd.
+Item		Location		QTY	Rate	Amount
+CPU		Shop 1		50 Pcs	4000	------
+UPS		Shop 1		200 Pcs	2000	------
+
+
+3.M/s Ramesh Verify Physically Stock 
+Item		Location		QTY	Rate	Amount
+CPU		Shop 1		48 Pcs	4000	------
+UPS		Shop 1		199 Pcs	2000	------
+
+
+4.M/s Ramesh Adjustment loss by fire stock
+Item		Location	QTY	Rate	Amount
+UPS		Shop 1		199 Pcs	2000	------
+
+
+
+
+-----------------------------------------------------------------------------------------
+Step 1:-Vouchers-->Press F6(Receipt)
+Cr.Capital(Capital a/c)			5,00,000
+Dr.Cash					5,00,000
+
+Note:-Create Locations:-Shop 1:-Create-->Location-->Shop 1
+
+Step 2:-Vouchers-->Press F9(Purchase)
+Party Name:-ABC LTD(Sundry.Creditor)
+P.A(P.A)
+Item		Location	QTY	Rate	Amount
+CPU		Shop 1		50 Pcs	4000	------
+UPS		Shop 1		200 Pcs	2000	------
+
+Vouchers-->Other Voucher
+Step 3:-Press Contl+F7(Physical stock)
+Item		Location	QTY	Rate	Amount
+CPU		Shop 1		48 Pcs	4000	------
+UPS		Shop 1		199 Pcs	2000	------
+
+
+Step 3:-Goto vouchers-->Other Vouchers (alt+F7)
+
+Item		Location		QTY	Rate	Amount
+UPS		Shop 1		0 Pcs	2000	------
+
+-----------------------------------------------------------------------------------------

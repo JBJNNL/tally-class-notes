@@ -1,0 +1,44 @@
+ 	Advance Payment & Advance Received with Adjustment
+---------------------------------------------------------------
+1.M/s Ram Trading Maintain Cash:-5,00,000
+
+Step 1:-Alter -->Ledgers-->Cash Maitain:-
+
+2.M/s Ram Trading Paid Salary to Mr Neeraj	1-4-23
+	Salary			25,000
+	Advance Paid		05,000
+	Total			30,000
+Step 2:-Vouchers-->Press F5(Payment)
+	Dr.Salary(Indirect Expenses)	25,000
+	Dr.Advance Paid(Current Assets)	05,000
+	Cr.Cash				30,000
+3.M/s Ram Trading Received Rent From Mr Rajeev	1-4-23
+	Rent 		30,000
+	Advance Rent	05,000
+	Total Rec.	35,000
+
+Step 3:-Vouchers-->Press F6(Receipt)
+	Cr.Rent(Indirect Income) 		30,000
+	Cr.Advance Rent Rec.(Current Liabities)	05,000
+	Dr.Cash					35,000
+
+4.M/s Ram Trading Paid Salary to Mr Neeraj	1-5-23
+	Salary		25,000
+	Advance Adjust	05,000
+	Total		20,000
+
+Step 4:-Press F5(Payment)
+	Dr.Salary				25,000
+	Cr.Advance Paid				05,000
+	Cr.Cash					20,000
+
+5.M/s Ram Trading Received Rent Form Mr Raveev	1-5-23
+	Rent 		30,000
+	Advance Adjut	05,000
+	Total Rec.	25,000
+
+Step 5:-Press F6(Receipt)
+	Cr.Rent 		30,000
+	Dr.Advance Rent		05,000
+	Dr.Cash			25,000
+-----------------------------------------------------------------------------------

@@ -1,0 +1,36 @@
+			 Purchase Service Interstate:-
+JEW:-06ASUPK0785C1ZK
+---------------------------------------------------------------------------------------------------------------
+1.M/s JEW Received AC Installation Invoice from R.R Trading Invoice No-121
+
+Item Discription						Amount
+AC Installation Job Works					1850
+IGST@28%						-----
+SAC:-9954
+08ESDPK9602R1Z0
+
+2.M/s JEW Received Job Work Invoice from M/s Girdhar Lal Engg. Works 221
+Item Discription						Amount
+Repaire for Block Pin					2450
+IGST@18%						-----
+SAC:-9987
+
+07AAACL1745Q1Z6
+----------------------------------------------------------------------------------
+Step 1:-Create-->Voucher type-->JOB Work Expense(Purchase)
+
+Step 2:-Vouchers-->Press F9(JOB WORK EXPENSE )--->Change Mode-->Accounting Invoice-->
+Party Name:-R.R Trading(S.C)
+Item Discription						Amount
+AC Installation Job Works(Indirect Exp)				1850
+IGST@28%						-----
+SAC:-9954
+
+Step 3:-Vouchers-->Press F9(JOB WORK EXPENSE)
+Party Name:-G.L Engg. Worsk(S.C)
+Item Discription						Amount
+Repair Job Work(Indirect Exp)				2450
+IGST@18%						-----
+SAC:-9987	
+
+Taks Sales

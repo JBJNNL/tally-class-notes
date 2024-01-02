@@ -1,0 +1,24 @@
+			VAT(Value Added Tax)
+------------------------------------------------------------------------------------------------------------------------------------------
+1.R.K Patrol Pump Puchase Diesel and Petrol
+Parti Name:-Mr Ramesh
+Item Name		Qty		Rate		Amount
+Petrol			200 Ltr		60		-----------
+Diesel			100 Ltr		70		-----------
+Total							-----------
+VAT@26.25%						----------
+
+Step 1:-Enable Vat-->Yes
+TIN:-
+Interstate Sales Tax:-
+
+Step 2:-Press F9(Purchase)
+Party Name:-Mr Ramesh(Sundry Creditor)-->Set/Alter Vat Details:-Yes
+Purchase Ledger:-Purchase A/c(Purchase A/c)	
+Item Name		Qty		Rate		Amount
+Petrol			200 Ltr		60		-----------
+Diesel			100 Ltr		70		-----------
+Total							-----------
+VAT@26.25%						----------
+
+

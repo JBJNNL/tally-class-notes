@@ -1,0 +1,44 @@
+	 		-:Stock Maintain with Godowns(Godam):-
+-----------------------------------------------------------------------------------------
+1.Maruti Ltd Manufactrued Following Items
+Item Name	Godowns		Qty	Rate		Amount
+Alto 800	GD1		200 Pcs	2,50,000	------
+Swift Dzire	GD2		300 Pcs	5,50,000	------
+Swift VXI	GD2		250 Pcs	5,00,000	------
+Baleno		GD1		100 Pcs	8,00,000	------
+
+Step 1:-Prime:-Create-->Location-->GD1,GD2
+
+
+Note-->Agar aapko Godowns ka address Dalana hai to aapko Press F12 karna hai or provide address for godowns ko Yes karna hai.
+
+Step 3:-Create-->Stock Items-->
+Item Name	Godowns		Qty	Rate		Amount
+Alto 800	GD1		200 Pcs	2,50,000	------
+Swift Dzire	GD2		300 Pcs	5,50,000	------
+Swift VXI	GD2		250 Pcs	5,00,000	------
+Baleno		GD1		100 Pcs	8,00,000	------
+
+2.Maruti Ltd Sale Following items to Nexa Showroom Narnaul
+Item Name	Godowns		Qty	Rate		Amount
+Alto 800	GD1		50 Pcs	3,50,000	------
+Swift Dzire	GD2		30 Pcs	6,50,000	------
+Swift VXI	GD2		25 Pcs	6,00,000	------
+Baleno		GD1		10 Pcs	9,00,000	------
+
+Step 4:-Press F8(Sale)
+Party Name:-Nexa Showroom Narnaul(Sundry Debtors)
+Sales Ledgers :-Sales A/c(Sales A/c)
+Item Name	Godowns		Qty	Rate		Amount
+Alto 800	GD1 		50 Pcs	3,50,000	------
+Swift Dzire	GD2		30 Pcs	6,50,000	------
+Swift VXI	GD2		25 Pcs	6,00,000	------
+Baleno		GD1		10 Pcs	9,00,000	------
+
+
+3.Maruti Ltd Received Pending Amount from Nexa Showroom narnaul with Rs ----------By Cash.
+
+Step 5:-Press F6(Receipt)
+Cr.Nexa Showroom Narnaul				--------
+Dr.Cash						--------
+----------------------------------------------------------------------

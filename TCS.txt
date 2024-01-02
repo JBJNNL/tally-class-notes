@@ -1,0 +1,26 @@
+ 			TCS(Tax Collected At Source)
+-----------------------------------------------------------------------------------------
+Ram Trading -->
+Step 1:-Enable TCS-->Yes
+TAN -->
+TAN TCS-->DELA02603G
+Collection type-->
+
+1.Ram Trading Sales following Items
+Party Name:-Mr Deepak
+Particular						Amount
+Scrap						80,000
+
+Step 2:-Vouchers-->Press F8(Sale)-->Mode-->Accounting invoice-->
+Party Name:-Mr Deepak(S.D)
+Particular						Amount
+Scrap(Sales)					80,000
+TCS on Scrap(D.T-->TCS-->)				-------
+
+Step 3:-Maintain Bank Balance:-SBI Bank-->1,000
+
+Step 4:-Press F5(Payment)Autofill
+
+Task-
+Forest Woods		Amount	
+2.50%

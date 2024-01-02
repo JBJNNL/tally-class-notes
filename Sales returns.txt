@@ -1,0 +1,62 @@
+			Sales Returns(Credit Note)
+--------------------------------------------------------------------------
+1.R.R Taxtile Maintain Following Stock Items
+Item Name		Qty		Rate		Amount
+Pillow			30 Pcs		250		-------
+Blanket			50 Pcs		1000		-------
+Curtains			40 Pcs		200		-------
+
+
+Step 1:-Create-->Stock items-->>Given Above
+
+
+2.R.R Taxtile Sales following items 
+Party Name :-R.K Garments:-Whole Seller
+Item Name		Qty		Rate		Amount
+Pillow			10 Pcs		350		-------
+Blanket			30 Pcs		1500		-------
+Curtains			20 Pcs		300		-------
+
+Step 3:-Voucher-->Press F8(Sale)
+Party Name:-R.K Garments(Sundry Debtors)
+Sales Ledgers-->Sales A/c(Sales a/c)
+Item Name		Qty		Rate		Amount
+Pillow			10 Pcs		350		-------
+Blanket			30 Pcs		1500		-------
+Curtains			20 Pcs		300		-------
+Direct Bill Accept =Control+A
+
+3.R.R Taxtile received Sales returns from R.K Garments:-
+Item Name		Qty		Rate		Amount
+Pillow			05 Pcs		350		-------
+Blanket			03 Pcs		1500		-------
+
+Step 4:-Vouchers-->Other Voucher-->Press Alt+F6(Credit Note)
+Select Party Name:-
+Select Sales a/c
+Item Name		Qty		Rate		Amount
+Pillow			05 Pcs		350		-------
+Blanket			03 Pcs		1500		-------
+
+4.R.R Taxtile Received Pending due bills amount from R.K Garments With Rs ----------- by Cash
+
+Step 5:-Vouchers-->Press F6(Receipt)
+Cr.R.K Garments			-----------
+Dr.Cash				-----------
+
+5.R.R Taxtile Received Commission from Mr Deepak With Rs 55,000 by Cash
+
+Step 6:-Vouchers-->Press F6(Receipt)
+Cr.Commission(Indirect Income)		55,000
+Dr.Cash					55,000
+
+6.R.R Taxtile Paid Salary to Staff with Rs 50,000 by Cash
+
+Step 7:-Vouchers-->Press F5(Paymeny)
+Dr.Salary(Indirect Exp.)		50,000
+Cr.Cash					50,000
+----------------------------------------------------------------------------------------------------------------------------
+TASK:-Set Standred Cost:-///
+
+
+

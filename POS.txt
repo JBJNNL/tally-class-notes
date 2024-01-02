@@ -1,0 +1,42 @@
+   		POS(Point of Sales) With Std. Rate
+
+1.AIBA Store Maintain following items:-
+Item Name		Qty		Rate		Amount
+Shampoo			200 Pcs		150		------
+Lux Soap		200 Pkt		80		------
+Perfume			200 Pcs		160		------
+
+Step 1:-Create-->Stock Items-->Given Above
+Press F12 Provide Standred Buying & Selling Rates:-Yes
+Note:-Jab Aap Item Banaoge to aapko Set standerd rate Yes Karna hai.
+
+2.AIBA Store Sales Following items to Customer
+Item Name		Qty		Rate		Amount
+Shampoo			3 Pcs		185		------
+Lux Soap		5 Pkt		95		------
+Perfume			2 Pcs		175		------
+Total 							------
+Cash:-			Cash Tentered :-------		Balance:-----
+	
+Step 2:-Create-->Voucher types--->
+Name:-AIBA STORE
+Select Type of Voucher:-Sales
+Use for POS Invoicing-->Yes
+MSG1:-Thanks for visiting
+MSG2:-Visit Again
+Default Print title:-INVOICE
+Set/alter Declearation-->Yes
+
+Step 3:-Vouchers-->Press F8(AIBA STORE )
+Party Name:-N/A(Not Applicable)
+Sales Ledgers-->Sales a/c(Sales A/c)
+Item Name		Qty		Rate		Amount
+Shampoo			3 Pcs		185		------
+Lux Soap		5 Pkt		95		------
+Perfume			2 Pcs		175		------
+
+Total 							------
+Cash:-	1380	Cash Tentered :1500		Balance:120
+
+Single Mode Payment:-Cash
+--------------------------------------------------------------------

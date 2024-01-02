@@ -1,0 +1,51 @@
+Company Shutdown
+Company Create
+Alter:-Change/Delete:-Alt+D
+
+Vouchers:-
+
+Contra:-
+Bank me Rs jama karna
+Bank se Rs Nikalna
+Ek bank se dusre bank me transfer
+
+R.K Trading ne 10000 SBI Bank me jama karwa diye .
+
+Dr.SBI Bank		10,000
+Cr.Cash				10,000
+
+R.K Trading ne 5,000 Rs Sbi  Bank se nikal liye.
+
+Dr.Cash			5,000
+Cr.SBI Bank			5,000
+Cur Bal-5000
+
+R.K Trading Transfer 5,000 From Sbi to HDFC bank.
+
+Dr.HDFC Bank		
+Cr.SBI bank
+
+Payment
+
+R.K Trading paid Rent Rs 5,000 by Cash.
+
+Dr.Rent
+Cr.Cash
+
+Receipt
+
+R.K Trading Received Rent Rs 10,000 by cash.
+
+Dr.Cash
+Cr.Rent rec.
+
+Journal
+Udhar Wali
+
+R.K Trading Purchase Computer Rs 15,000 from Ram 
+
+Dr.Computer		
+Cr.Ram
+
+
+

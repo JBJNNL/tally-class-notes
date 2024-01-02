@@ -1,0 +1,63 @@
+			      -:Alternate Unit:-
+---------------------------------------------------------------------------------------------------------------
+1.R.R Trading Maintain following items:-
+Item Name		Qty		Rate		Amount
+ParleG 			10 Cartoon	500		------
+			(50 Pcs)
+			50 Pcs=1 Cartoon	
+
+Glass			50 Box		250		------
+			(6 Pcs)					
+
+			6 Pcs=1 Box
+
+Pepsi			20 Cartoon	800		------
+			(9 Pcs)			
+			9 Pcs=1 Cartoon	
+
+Pens			20 Pkt		25		------
+			(6 Pcs)				
+			6 Pcs=1 Pkt
+
+Step 1:-Create--->Stock Items-->Given Above-->
+Press F12-->Use Alternative Unit-->Yes
+Note:-Where Condition Apply all items:
+
+2.R.R Trading Sales Following items to customer
+Party Name:-Cash
+Sales A/c(Sales A/c)
+Item Name		Qty		Rate		Amount
+ParleG 			2 Cartoon	700		------
+			(50 Pcs)
+
+Glass			3 Box		350		------
+			(6 Pcs)					
+
+Pepsi			5 Cartoon	1000		------
+			(9 Pcs)				
+
+Total							7,750
+Less 50 Rs
+
+Step 2:-Voucher-->Press F8(Sale)
+Party Name:-Cash
+Sales A/c(Sales A/c)
+Item Name		Qty		Rate		Amount
+ParleG 			2 Cartoon	700		------
+			(50 Pcs)
+
+Glass			3 Box		350		------
+			(6 Pcs)					
+
+Pepsi			5 Cartoon	1000		------
+			(9 Pcs)				
+
+Pens			10 Pkt		30		-------
+			(6 Pcs)
+
+Total							7,750
+R/off(Indirect Exp)						-(50)
+Total							7,700
+----------------------------------------------------------------------
+
+TASK--->Purchase With Alternative Unit
